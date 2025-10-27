@@ -14,30 +14,40 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-# ======= 常量 =======
-# Hugging Face：用 arxiv_id 映射 Hub 上的 spaces/models/datasets
+# ======= Constants =======
+# Hugging Face: Map arxiv_id to Hub spaces/models/datasets
 HF_REPOS_API = "https://huggingface.co/api/arxiv/{arxiv_id}/repos"
 HF_HEADERS = {"User-Agent": "arxiv-daily/1.0"}
 
-# GitHub 搜索（兜底）
+# GitHub Search (Fallback)
 GITHUB_SEARCH_REPO = "https://api.github.com/search/repositories"
 GITHUB_SEARCH_CODE = "https://api.github.com/search/code"
 GH_HEADERS = {
     "Accept": "application/vnd.github+json",
     "User-Agent": "arxiv-daily/1.0"
 }
-if os.getenv("GITHUB_TOKEN"):
-    GH_HEADERS["Authorization"] = f"Bearer {os.getenv('GITHUB_TOKEN')}"
 
-# arXiv 页面
+# Prioritize the user-created PAT (MY_GITHUB_TOKEN) for higher rate limits
+if os.getenv("MY_GITHUB_TOKEN"):
+    logging.info("Using MY_GITHUB_TOKEN for GitHub API authentication.")
+    GH_HEADERS["Authorization"] = f"Bearer {os.getenv('MY_GITHUB_TOKEN')}"
+elif os.getenv("GITHUB_TOKEN"):
+    # Fallback to the default token
+    logging.info("Using default GITHUB_TOKEN. Warning: Search API rate limits may be low.")
+    GH_HEADERS["Authorization"] = f"Bearer {os.getenv('GITHUB_TOKEN')}"
+else:
+    logging.warning("No GitHub API token found. Requests will be unauthenticated and likely rate-limited.")
+
+
+# arXiv page
 arxiv_url = "https://arxiv.org/"
 
-# ======= 工具函数 =======
+# ======= Utility Functions =======
 
 def load_config(config_file:str) -> dict:
     """
-    读取配置，并把 keywords->filters 拼成 arXiv 查询串：
-    形如：all:"Vision Language Model" OR all:"Vision-Language Model"
+    Read the config and build the arXiv query string from keywords->filters:
+    e.g., all:"Vision Language Model" OR all:"Vision-Language Model"
     """
     def pretty_filters(**config) -> dict:
         keywords = {}
@@ -80,28 +90,31 @@ def sort_papers(papers):
     return output
 
 def http_get(url, headers=None, params=None, timeout=10, retries=2, sleep=0.8):
-    """ 简单 GET 带重试 """
+    """ Simple GET with retry mechanism """
     last_exc = None
-    for _ in range(retries + 1):
+    for i in range(retries + 1):
         try:
             r = requests.get(url, headers=headers, params=params, timeout=timeout)
             if r.status_code == 200:
                 return r
             else:
-                logging.warning(f"GET {url} status={r.status_code} params={params}")
+                logging.warning(f"GET {url} status={r.status_code} params={params} (Try {i+1}/{retries+1})")
+                if r.status_code == 403:
+                    logging.error(f"GitHub API Forbidden (403). Check your token and rate limits.")
         except Exception as e:
             last_exc = e
-            logging.warning(f"GET {url} exception: {e}")
+            logging.warning(f"GET {url} exception: {e} (Try {i+1}/{retries+1})")
         time.sleep(sleep)
+    
     if last_exc:
-        raise last_exc
-    return None
+        logging.error(f"Failed to GET {url} after {retries+1} attempts.")
+    return None # Return None instead of raising an exception to avoid crashing the script
 
 def get_code_link(qword:str) -> str | None:
     """
-    用 GitHub 仓库搜索找一个可能的实现（按 stars 降序）。
-    @param qword: 论文标题或 arxiv id
-    @return 仓库 html_url 或 None
+    Use GitHub repository search to find a possible implementation (sorted by stars).
+    @param qword: Paper title or arxiv id
+    @return Repository html_url or None
     """
     params = {
         "q": qword,
@@ -123,27 +136,27 @@ def get_code_link(qword:str) -> str | None:
 
 def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str | None = None) -> str | None:
     """
-    更智能的 GitHub 兜底：
-    1) 用标题短语搜 README/描述
-    2) 再用 arXiv ID 搜
-    3) 再用 Code Search 在 README 文件里搜 arXiv ID
+    Smarter GitHub fallback:
+    1) Search for title phrase in README/description
+    2) Search for arXiv ID
+    3) Use Code Search to find arXiv ID in README files
     """
     try:
-        # 1) 标题短语搜索
+        # 1) Title phrase search
         q1 = f"\"{paper_title}\" in:readme,in:description"
         r = http_get(GITHUB_SEARCH_REPO, headers=GH_HEADERS,
                      params={"q": q1, "sort": "stars", "order": "desc", "per_page": 5}, timeout=10)
         if r and r.json().get("items"):
             return r.json()["items"][0]["html_url"]
 
-        # 2) arXiv ID 搜索
+        # 2) arXiv ID search
         q2 = f"\"{arxiv_id_no_ver}\" in:name,readme,description"
         r = http_get(GITHUB_SEARCH_REPO, headers=GH_HEADERS,
                      params={"q": q2, "sort": "stars", "order": "desc", "per_page": 5}, timeout=10)
         if r and r.json().get("items"):
             return r.json()["items"][0]["html_url"]
 
-        # 3) Code Search：README 中包含 arXiv ID
+        # 3) Code Search: arXiv ID in README
         q3 = f"\"{arxiv_id_no_ver}\" in:file filename:README"
         r = http_get(GITHUB_SEARCH_CODE, headers=GH_HEADERS,
                      params={"q": q3, "per_page": 5}, timeout=10)
@@ -155,9 +168,9 @@ def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str |
 
 def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
     """
-    从 Hugging Face Hub 获取与论文关联的 spaces/models/datasets。
-    优先选择：Spaces -> Models -> Datasets
-    返回对应的 Hub 链接，失败返回 None。
+    Get associated spaces/models/datasets from Hugging Face Hub.
+    Priority: Spaces -> Models -> Datasets
+    Returns the Hub link, or None on failure.
     """
     url = HF_REPOS_API.format(arxiv_id=arxiv_id_no_ver)
     try:
@@ -168,7 +181,7 @@ def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
 
         def pick(arr, t):
             for it in (arr or []):
-                rid = it.get("id")  # 形如 "org/name"
+                rid = it.get("id")  # e.g., "org/name"
                 if rid:
                     return f"https://huggingface.co/{t}/{rid}"
             return None
@@ -182,17 +195,44 @@ def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
 
 def _iter_arxiv_results(query: str, n: int):
     """
-    封装 arxiv.Search().results()，遇到 UnexpectedEmptyPageError 降级到 ≤25 条再拉。
+    Encapsulates arxiv.Client().results() and retries with a smaller max_results
+    on UnexpectedEmptyPageError.
     """
+    # Instantiate the client once
+    client = arxiv.Client(
+        page_size = 100,
+        delay_seconds = 3,
+        num_retries = 3
+    )
+    
+    # Create the search object
+    search = arxiv.Search(
+        query=query, 
+        max_results=n, 
+        sort_by=arxiv.SortCriterion.SubmittedDate
+    )
+    
     try:
-        se = arxiv.Search(query=query, max_results=n, sort_by=arxiv.SortCriterion.SubmittedDate)
-        for r in se.results():
+        # Use the recommended client.results(search) method
+        for r in client.results(search):
             yield r
     except arxiv.UnexpectedEmptyPageError:
         logging.warning("Empty page from arXiv; retrying with fewer results (<=25)")
-        se2 = arxiv.Search(query=query, max_results=min(n, 25), sort_by=arxiv.SortCriterion.SubmittedDate)
-        for r in se2.results():
-            yield r
+        # Fallback search with a smaller max_results
+        search_fallback = arxiv.Search(
+            query=query, 
+            max_results=min(n, 25), 
+            sort_by=arxiv.SortCriterion.SubmittedDate
+        )
+        try:
+            # Use the same client for the fallback
+            for r in client.results(search_fallback):
+                yield r
+        except Exception as e:
+            logging.error(f"Error during fallback arXiv search: {e}")
+    except Exception as e:
+        # Catch other potential search errors
+        logging.error(f"Error during arXiv search: {e}")
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -205,7 +245,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     for result in _iter_arxiv_results(query, max_results):
 
-        paper_id            = result.get_short_id()         # 例如 2108.09112v1
+        paper_id            = result.get_short_id()      # e.g., 2108.09112v1
         paper_title         = result.title
         paper_url           = result.entry_id
         paper_abstract      = (result.summary or "").replace("\n"," ")
@@ -218,12 +258,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # 去掉版本号：2108.09112v1 -> 2108.09112
+        # Remove version number: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
         paper_key = paper_id if ver_pos == -1 else paper_id[:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
-        # 先尝试 HF，失败再 GitHub 搜索作为兜底
+        # Try HF first, then GitHub search as fallback
         repo_url = get_repo_from_hf(paper_key)
         if repo_url is None:
             repo_url = (find_code_repo(paper_title, paper_key, paper_first_author)
@@ -233,16 +273,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
         try:
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                        update_time,paper_title,paper_first_author,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            comments = None  # TODO: 保留注释逻辑
+            comments = None  # TODO: Retain comment logic if needed
             if comments != None:
                 content_to_web[paper_key] += f", {comments}\n"
             else:
@@ -264,10 +304,13 @@ def update_paper_links(filename):
         date = parts[1].strip()
         title = parts[2].strip()
         authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
+        pdf_field = parts[4].strip() # This is '[key](url)'
         code = parts[5].strip()
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+        # Extract the key from the markdown link
+        arxiv_id_match = re.search(r'\[(.*?)\]', pdf_field)
+        arxiv_id = arxiv_id_match.group(1).strip() if arxiv_id_match else pdf_field
+        arxiv_id = re.sub(r'v\d+', '', arxiv_id) # Remove version
+        return date, title, authors, arxiv_id, code, pdf_field # Pass back the original pdf_field
 
     with open(filename,"r") as f:
         content = f.read()
@@ -280,32 +323,36 @@ def update_paper_links(filename):
 
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
+            # Use list(v.items()) to create a copy for safe iteration while modifying the dict
+            for paper_id,contents in list(v.items()):
                 contents = str(contents)
-
-                update_time, paper_title, paper_first_author, paper_url_field, code_url = parse_arxiv_string(contents)
-
-                # 保持原格式
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url_field,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
                 try:
-                    repo_url = (get_repo_from_hf(paper_id)
-                                or find_code_repo(paper_title, paper_id, paper_first_author)
+                    update_time, paper_title, paper_first_author, paper_key, code_url, paper_url_field = parse_arxiv_string(contents)
+
+                    # Maintain original format
+                    contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url_field,code_url)
+                    json_data[keywords][paper_id] = str(contents)
+                    # logging.info(f'paper_id = {paper_id}, contents = {contents}') # Too verbose
+
+                    valid_link = False if '|null|' in contents else True
+                    if valid_link:
+                        continue
+                    
+                    # If link is null, try to find it again
+                    logging.info(f"Attempting to find link for paper: {paper_key}")
+                    repo_url = (get_repo_from_hf(paper_key)
+                                or find_code_repo(paper_title, paper_key, paper_first_author)
                                 or get_code_link(paper_title)
-                                or get_code_link(paper_id))
+                                or get_code_link(paper_key))
 
                     if repo_url is not None:
                         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        logging.info(f'ID = {paper_key}, FOUND LINK, new contents = {new_cont}')
                         json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                    logging.error(f"Exception processing paper_id: {paper_id}, contents: {contents}, error: {e}")
+                    
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -355,8 +402,9 @@ def json_to_md(filename,md_filename,
             return s
         math_start,math_end = match.span()
         space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+        # Add boundary checks
+        if math_start > 0 and s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
+        if math_end < len(s) and s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
         ret += s[:math_start]
         ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
         ret += s[math_end:]
@@ -522,16 +570,13 @@ if __name__ == "__main__":
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')
+                            action="store_true",help='whether to update paper links etc.')
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
 
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "commit"], check=True)
-        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-        print("Git commands executed successfully.")
-    except subprocess.CalledProcessError as e:
-        pass
+    # The git commit and push logic is handled by the GitHub Action workflow
+    # (e.g., using github-actions-x/commit).
+    # Removing redundant subprocess calls that were here.
+    logging.info("Script finished. Git commit and push will be handled by the workflow.")
