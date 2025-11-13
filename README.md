@@ -1457,7 +1457,7 @@
 |**2025-10-13**|**Agent Learning via Early Experience**|Kai Zhang et.al.|[2510.08558](https://arxiv.org/abs/2510.08558)|**[link](https://github.com/DSXiangLi/DecryptPrompt)**|
 |**2025-10-09**|**R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation**|Xiuwei Xu et.al.|[2510.08547](https://arxiv.org/abs/2510.08547)|**[link](https://github.com/gabrielchua/daily-ai-papers)**|
 |**2025-10-08**|**EBGAN-MDN: An Energy-Based Adversarial Framework for Multi-Modal Behavior Cloning**|Yixiao Li et.al.|[2510.07562](https://arxiv.org/abs/2510.07562)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2025-10-09**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Ke Guo et.al.|[2510.06913](https://arxiv.org/abs/2510.06913)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2025-10-09**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Ke Guo et.al.|[2510.06913](https://arxiv.org/abs/2510.06913)|null|
 |**2025-10-07**|**Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels**|Zhepeng Cen et.al.|[2510.06499](https://arxiv.org/abs/2510.06499)|**[link](https://huggingface.co/datasets/Salesforce/Webscale-RL)**|
 |**2025-10-07**|**Differentiable Model Predictive Control on the GPU**|Emre Adabag et.al.|[2510.06179](https://arxiv.org/abs/2510.06179)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-10-07**|**Towards Autonomous Tape Handling for Robotic Wound Redressing**|Xiao Liang et.al.|[2510.06127](https://arxiv.org/abs/2510.06127)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -1680,35 +1680,35 @@
 |**2025-05-19**|**Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations**|Shahabedin Sagheb et.al.|[2505.10760](https://arxiv.org/abs/2505.10760)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-03-11**|**Collective Behavior Clone with Visual Attention via Neural Interaction Graph Prediction**|Kai Li et.al.|[2503.06869](https://arxiv.org/abs/2503.06869)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-10-10**|**Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning**|Zhaoting Li et.al.|[2502.07645](https://arxiv.org/abs/2502.07645)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
-|**2024-12-11**|**Swarm Behavior Cloning**|Jonas Nüßlein et.al.|[2412.07617](https://arxiv.org/abs/2412.07617)|null|
-|**2024-11-28**|**Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation**|Jie-Jing Shao et.al.|[2411.18201](https://arxiv.org/abs/2411.18201)|null|
+|**2024-12-11**|**Swarm Behavior Cloning**|Jonas Nüßlein et.al.|[2412.07617](https://arxiv.org/abs/2412.07617)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2024-11-28**|**Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation**|Jie-Jing Shao et.al.|[2411.18201](https://arxiv.org/abs/2411.18201)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2024-10-11**|**Behavior Cloning for Mini Autonomous Car Path Following**|Pablo Moraes et.al.|[2410.07209](https://arxiv.org/abs/2410.07209)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2024-09-12**|**Behavioral Cloning Models Reality Check for Autonomous Driving**|Mustafa Yildirim et.al.|[2409.07218](https://arxiv.org/abs/2409.07218)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2024-08-21**|**Constrained Behavior Cloning for Robotic Learning**|Wensheng Liang et.al.|[2408.10568](https://arxiv.org/abs/2408.10568)|null|
-|**2024-08-13**|**Stable-BC: Controlling Covariate Shift with Stable Behavior Cloning**|Shaunak A. Mehta et.al.|[2408.06246](https://arxiv.org/abs/2408.06246)|null|
-|**2024-12-03**|**Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**|Dylan J. Foster et.al.|[2407.15007](https://arxiv.org/abs/2407.15007)|null|
+|**2024-09-12**|**Behavioral Cloning Models Reality Check for Autonomous Driving**|Mustafa Yildirim et.al.|[2409.07218](https://arxiv.org/abs/2409.07218)|null|
+|**2024-08-21**|**Constrained Behavior Cloning for Robotic Learning**|Wensheng Liang et.al.|[2408.10568](https://arxiv.org/abs/2408.10568)|**[link](https://github.com/Boxjod/RLBench_ACT)**|
+|**2024-08-13**|**Stable-BC: Controlling Covariate Shift with Stable Behavior Cloning**|Shaunak A. Mehta et.al.|[2408.06246](https://arxiv.org/abs/2408.06246)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2024-12-03**|**Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**|Dylan J. Foster et.al.|[2407.15007](https://arxiv.org/abs/2407.15007)|**[link](https://github.com/KentoNishi/awesome-all-you-need-papers)**|
 |**2023-09-20**|**One ACT Play: Single Demonstration Behavior Cloning with Action Chunking Transformers**|Abraham George et.al.|[2309.10175](https://arxiv.org/abs/2309.10175)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2023-10-25**|**Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior**|Adam Block et.al.|[2307.14619](https://arxiv.org/abs/2307.14619)|**[link](https://github.com/YanjieZe/Paper-List)**|
-|**2023-06-16**|**Behavioral Cloning via Search in Embedded Demonstration Dataset**|Federico Malato et.al.|[2306.09082](https://arxiv.org/abs/2306.09082)|null|
+|**2023-06-16**|**Behavioral Cloning via Search in Embedded Demonstration Dataset**|Federico Malato et.al.|[2306.09082](https://arxiv.org/abs/2306.09082)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2024-01-19**|**Thought Cloning: Learning to Think while Acting by Imitating Human Thinking**|Shengran Hu et.al.|[2306.00323](https://arxiv.org/abs/2306.00323)|**[link](https://github.com/ShengranHu/Thought-Cloning)**|
 |**2024-06-04**|**Diffusion Model-Augmented Behavioral Cloning**|Shang-Fu Chen et.al.|[2302.13335](https://arxiv.org/abs/2302.13335)|**[link](https://github.com/EmbodiedMind/DiffusionPolicy-Robotics)**|
 |**2023-02-10**|**Asking for Help: Failure Prediction in Behavioral Cloning through Value Approximation**|Cem Gokmen et.al.|[2302.04334](https://arxiv.org/abs/2302.04334)|**[link](https://github.com/ryanbgriffiths/ICRA2023PaperList)**|
 |**2022-11-09**|**ABC: Adversarial Behavioral Cloning for Offline Mode-Seeking Imitation Learning**|Eddy Hudson et.al.|[2211.04005](https://arxiv.org/abs/2211.04005)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2022-10-13**|**Behavior Transformers: Cloning $k$ modes with one stone**|Nur Muhammad Mahi Shafiullah et.al.|[2206.11251](https://arxiv.org/abs/2206.11251)|**[link](https://github.com/hanjuku-kaso/awesome-offline-rl)**|
-|**2022-06-03**|**Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL**|Wonjoon Goo et.al.|[2206.00695](https://arxiv.org/abs/2206.00695)|**[link](https://github.com/hanjuku-kaso/awesome-offline-rl)**|
+|**2022-10-13**|**Behavior Transformers: Cloning $k$ modes with one stone**|Nur Muhammad Mahi Shafiullah et.al.|[2206.11251](https://arxiv.org/abs/2206.11251)|null|
+|**2022-06-03**|**Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL**|Wonjoon Goo et.al.|[2206.00695](https://arxiv.org/abs/2206.00695)|null|
 |**2022-05-24**|**Chain of Thought Imitation with Procedure Cloning**|Mengjiao Yang et.al.|[2205.10816](https://arxiv.org/abs/2205.10816)|**[link](https://huggingface.co/datasets/OpenDILabCommunity/Pong-v4-expert-MCTS)**|
-|**2022-04-13**|**When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?**|Aviral Kumar et.al.|[2204.05618](https://arxiv.org/abs/2204.05618)|**[link](https://github.com/hanjuku-kaso/awesome-offline-rl)**|
-|**2022-02-21**|**Enhanced Behavioral Cloning with Environmental Losses for Self-Driving Vehicles**|Nelson Fernandez Pinto et.al.|[2202.09271](https://arxiv.org/abs/2202.09271)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2022-04-13**|**When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?**|Aviral Kumar et.al.|[2204.05618](https://arxiv.org/abs/2204.05618)|null|
+|**2022-02-21**|**Enhanced Behavioral Cloning with Environmental Losses for Self-Driving Vehicles**|Nelson Fernandez Pinto et.al.|[2202.09271](https://arxiv.org/abs/2202.09271)|null|
 |**2021-09-02**|**Implicit Behavioral Cloning**|Pete Florence et.al.|[2109.00137](https://arxiv.org/abs/2109.00137)|**[link](https://github.com/hanjuku-kaso/awesome-offline-rl)**|
-|**2021-06-11**|**Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration**|Edward Johns et.al.|[2105.06411](https://arxiv.org/abs/2105.06411)|null|
+|**2021-06-11**|**Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration**|Edward Johns et.al.|[2105.06411](https://arxiv.org/abs/2105.06411)|**[link](https://github.com/dectrfov/ICRA2021PaperList)**|
 |**2021-04-02**|**Generalized Reinforcement Learning for Building Control using Behavioral Cloning**|Zachary E. Lee et.al.|[2104.00123](https://arxiv.org/abs/2104.00123)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2021-10-19**|**Robust Behavioral Cloning for Autonomous Vehicles using End-to-End Imitation Learning**|Tanmay Vilas Samak et.al.|[2010.04767](https://arxiv.org/abs/2010.04767)|null|
+|**2021-10-19**|**Robust Behavioral Cloning for Autonomous Vehicles using End-to-End Imitation Learning**|Tanmay Vilas Samak et.al.|[2010.04767](https://arxiv.org/abs/2010.04767)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2020-09-01**|**Driving Through Ghosts: Behavioral Cloning with False Positives**|Andreas Bühler et.al.|[2008.12969](https://arxiv.org/abs/2008.12969)|**[link](https://github.com/PaoPaoRobot/IROS2020-paper-list)**|
 |**2020-08-05**|**Concurrent Training Improves the Performance of Behavioral Cloning from Observation**|Zachary W. Robertson et.al.|[2008.01205](https://arxiv.org/abs/2008.01205)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2022-03-09**|**Interactive Imitation Learning in State-Space**|Snehal Jauhri et.al.|[2008.00524](https://arxiv.org/abs/2008.00524)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2021-12-14**|**Enhanced Behavioral Cloning Based self-driving Car Using Transfer Learning**|Uppala Sumanth et.al.|[2007.05740](https://arxiv.org/abs/2007.05740)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2021-03-18**|**Primal Wasserstein Imitation Learning**|Robert Dadashi et.al.|[2006.04678](https://arxiv.org/abs/2006.04678)|null|
-|**2020-02-27**|**Behavior Cloning in OpenAI using Case Based Reasoning**|Chad Peters et.al.|[2002.11197](https://arxiv.org/abs/2002.11197)|null|
+|**2021-12-14**|**Enhanced Behavioral Cloning Based self-driving Car Using Transfer Learning**|Uppala Sumanth et.al.|[2007.05740](https://arxiv.org/abs/2007.05740)|null|
+|**2021-03-18**|**Primal Wasserstein Imitation Learning**|Robert Dadashi et.al.|[2006.04678](https://arxiv.org/abs/2006.04678)|**[link](https://github.com/Kaixhin/imitation-learning)**|
+|**2020-02-27**|**Behavior Cloning in OpenAI using Case Based Reasoning**|Chad Peters et.al.|[2002.11197](https://arxiv.org/abs/2002.11197)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2019-11-19**|**On Value Discrepancy of Imitation Learning**|Tian Xu et.al.|[1911.07027](https://arxiv.org/abs/1911.07027)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2019-10-16**|**Self Driving RC Car using Behavioral Cloning**|Aliasgar Haji et.al.|[1910.06734](https://arxiv.org/abs/1910.06734)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2020-04-07**|**Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments**|Vinicius G. Goecks et.al.|[1910.04281](https://arxiv.org/abs/1910.04281)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -1716,12 +1716,12 @@
 |**2020-05-19**|**On-Policy Robot Imitation Learning from a Converging Supervisor**|Ashwin Balakrishna et.al.|[1907.03423](https://arxiv.org/abs/1907.03423)|null|
 |**2019-04-22**|**Exploring the Limitations of Behavior Cloning for Autonomous Driving**|Felipe Codevilla et.al.|[1904.08980](https://arxiv.org/abs/1904.08980)|**[link](https://github.com/zhulf0804/3D-PointCloud)**|
 |**2019-08-27**|**Reinforced Imitation in Heterogeneous Action Space**|Konrad Zolna et.al.|[1904.03438](https://arxiv.org/abs/1904.03438)|null|
-|**2018-12-17**|**Imitation Learning for End to End Vehicle Longitudinal Control with Forward Camera**|Laurent George et.al.|[1812.05841](https://arxiv.org/abs/1812.05841)|**[link](https://github.com/gopala-kr/summary)**|
+|**2018-12-17**|**Imitation Learning for End to End Vehicle Longitudinal Control with Forward Camera**|Laurent George et.al.|[1812.05841](https://arxiv.org/abs/1812.05841)|null|
 |**2018-12-18**|**Trajectory-based Learning for Ball-in-Maze Games**|Sujoy Paul et.al.|[1811.11441](https://arxiv.org/abs/1811.11441)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2018-05-15**|**Behavioral Cloning from Observation**|Faraz Torabi et.al.|[1805.01954](https://arxiv.org/abs/1805.01954)|**[link](https://github.com/hanjuku-kaso/awesome-offline-rl)**|
+|**2018-05-15**|**Behavioral Cloning from Observation**|Faraz Torabi et.al.|[1805.01954](https://arxiv.org/abs/1805.01954)|null|
 |**2017-09-15**|**One-Shot Visual Imitation Learning via Meta-Learning**|Chelsea Finn et.al.|[1709.04905](https://arxiv.org/abs/1709.04905)|**[link](https://github.com/floodsung/Meta-Learning-Papers)**|
-|**2018-05-28**|**Coordinated Multi-Agent Imitation Learning**|Hoang M. Le et.al.|[1703.03121](https://arxiv.org/abs/1703.03121)|**[link](https://github.com/zziz/pwc)**|
-|**2017-01-25**|**Imitating Driver Behavior with Generative Adversarial Networks**|Alex Kuefler et.al.|[1701.06699](https://arxiv.org/abs/1701.06699)|null|
+|**2018-05-28**|**Coordinated Multi-Agent Imitation Learning**|Hoang M. Le et.al.|[1703.03121](https://arxiv.org/abs/1703.03121)|null|
+|**2017-01-25**|**Imitating Driver Behavior with Generative Adversarial Networks**|Alex Kuefler et.al.|[1701.06699](https://arxiv.org/abs/1701.06699)|**[link](https://github.com/nightrome/really-awesome-gan)**|
 
 <p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
 
@@ -1742,7 +1742,7 @@
 |**2025-10-25**|**A short methodological review on social robot navigation benchmarking**|Pranup Chhetri et.al.|[2510.22448](https://arxiv.org/abs/2510.22448)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-10-21**|**Embodied Navigation with Auxiliary Task of Action Description Prediction**|Haru Kondoh et.al.|[2510.21809](https://arxiv.org/abs/2510.21809)|**[link](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)**|
 |**2025-10-23**|**VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation**|Mateo Guaman Castro et.al.|[2510.20818](https://arxiv.org/abs/2510.20818)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2025-10-23**|**LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments**|Hongyu Ding et.al.|[2510.19655](https://arxiv.org/abs/2510.19655)|null|
+|**2025-10-23**|**LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments**|Hongyu Ding et.al.|[2510.19655](https://arxiv.org/abs/2510.19655)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2025-10-21**|**Distributed Stochastic Search for Multi-Agent Model Predictive Control**|Taehyun Yoon et.al.|[2510.18211](https://arxiv.org/abs/2510.18211)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-10-20**|**MOFM-Nav: On-Manifold Ordering-Flexible Multi-Robot Navigation**|Bin-Bin Hu et.al.|[2510.18063](https://arxiv.org/abs/2510.18063)|null|
 |**2025-10-20**|**An Empirical Study of Lagrangian Methods in Safe Reinforcement Learning**|Lindsay Spoor et.al.|[2510.17564](https://arxiv.org/abs/2510.17564)|null|
@@ -1873,49 +1873,49 @@
 |**2025-06-25**|**Building Forest Inventories with Autonomous Legged Robots -- System, Lessons, and Challenges Ahead**|Matías Mattamala et.al.|[2506.20315](https://arxiv.org/abs/2506.20315)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-07-27**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016](https://arxiv.org/abs/2506.18016)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-06-18**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507](https://arxiv.org/abs/2506.14507)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2025-05-19**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](https://arxiv.org/abs/2505.11383)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
-|**2025-03-21**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](https://arxiv.org/abs/2503.16394)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-05-19**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](https://arxiv.org/abs/2505.11383)|null|
+|**2025-03-21**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](https://arxiv.org/abs/2503.16394)|**[link](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)**|
 |**2025-03-19**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](https://arxiv.org/abs/2503.13966)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
-|**2025-06-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](https://arxiv.org/abs/2502.07306)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
+|**2025-06-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](https://arxiv.org/abs/2502.07306)|null|
 |**2025-04-30**|**Mobile Robot Navigation Using Hand-Drawn Maps: A Vision Language Model Approach**|Aaron Hao Tan et.al.|[2502.00114](https://arxiv.org/abs/2502.00114)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-01-30**|**General Scene Adaptation for Vision-and-Language Navigation**|Haodong Hong et.al.|[2501.17403](https://arxiv.org/abs/2501.17403)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-03-20**|**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**|Xinshuai Song et.al.|[2412.09082](https://arxiv.org/abs/2412.09082)|**[link](https://huggingface.co/datasets/Starry123/LHPR-VLN)**|
 |**2025-02-18**|**NaVILA: Legged Robot Vision-Language-Action Model for Navigation**|An-Chieh Cheng et.al.|[2412.04453](https://arxiv.org/abs/2412.04453)|null|
-|**2024-12-03**|**Fine-Grained Alignment in Vision-and-Language Navigation through Bayesian Optimization**|Yuhang Song et.al.|[2411.14811](https://arxiv.org/abs/2411.14811)|null|
+|**2024-12-03**|**Fine-Grained Alignment in Vision-and-Language Navigation through Bayesian Optimization**|Yuhang Song et.al.|[2411.14811](https://arxiv.org/abs/2411.14811)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2024-09-23**|**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**|Gengze Zhou et.al.|[2407.12366](https://arxiv.org/abs/2407.12366)|**[link](https://huggingface.co/datasets/ZGZzz/NavGPT-Instruct)**|
 |**2025-11-03**|**Continual Vision-and-Language Navigation**|Seongjun Jeong et.al.|[2403.15049](https://arxiv.org/abs/2403.15049)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2024-07-02**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852](https://arxiv.org/abs/2402.15852)|**[link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)**|
+|**2024-07-02**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852](https://arxiv.org/abs/2402.15852)|null|
 |**2024-03-21**|**Vision-Language Navigation with Embodied Intelligence: A Survey**|Peng Gao et.al.|[2402.14304](https://arxiv.org/abs/2402.14304)|**[link](https://github.com/cmhungsteve/Awesome-Transformer-Attention)**|
-|**2024-02-08**|**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**|Jialu Li et.al.|[2402.03561](https://arxiv.org/abs/2402.03561)|**[link](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)**|
+|**2024-02-08**|**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**|Jialu Li et.al.|[2402.03561](https://arxiv.org/abs/2402.03561)|null|
 |**2023-12-27**|**WebVLN: Vision-and-Language Navigation on Websites**|Qi Chen et.al.|[2312.15820](https://arxiv.org/abs/2312.15820)|**[link](https://github.com/showlab/Awesome-GUI-Agent)**|
 |**2023-10-18**|**Vision and Language Navigation in the Real World via Online Visual Language Mapping**|Chengguang Xu et.al.|[2310.10822](https://arxiv.org/abs/2310.10822)|**[link](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)**|
 |**2023-08-17**|**$A^2$ Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models**|Peihao Chen et.al.|[2308.07997](https://arxiv.org/abs/2308.07997)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2023-07-21**|**Behavioral Analysis of Vision-and-Language Navigation Agents**|Zijiao Yang et.al.|[2307.10790](https://arxiv.org/abs/2307.10790)|**[link](https://github.com/52CV/CVPR-2023-Papers)**|
-|**2023-10-20**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986](https://arxiv.org/abs/2305.16986)|null|
+|**2023-10-20**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986](https://arxiv.org/abs/2305.16986)|**[link](https://github.com/WooooDyy/LLM-Agent-Paper-List)**|
 |**2024-01-23**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047](https://arxiv.org/abs/2304.03047)|**[link](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)**|
-|**2022-12-01**|**CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation**|Vishnu Sashank Dorbala et.al.|[2211.16649](https://arxiv.org/abs/2211.16649)|null|
-|**2022-10-19**|**ULN: Towards Underspecified Vision-and-Language Navigation**|Weixi Feng et.al.|[2210.10020](https://arxiv.org/abs/2210.10020)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2022-12-01**|**CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation**|Vishnu Sashank Dorbala et.al.|[2211.16649](https://arxiv.org/abs/2211.16649)|**[link](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)**|
+|**2022-10-19**|**ULN: Towards Underspecified Vision-and-Language Navigation**|Weixi Feng et.al.|[2210.10020](https://arxiv.org/abs/2210.10020)|null|
 |**2023-12-27**|**Iterative Vision-and-Language Navigation**|Jacob Krantz et.al.|[2210.03087](https://arxiv.org/abs/2210.03087)|**[link](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)**|
-|**2022-06-23**|**Local Slot Attention for Vision-and-Language Navigation**|Yifeng Zhuang et.al.|[2206.08645](https://arxiv.org/abs/2206.08645)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2022-06-23**|**Local Slot Attention for Vision-and-Language Navigation**|Yifeng Zhuang et.al.|[2206.08645](https://arxiv.org/abs/2206.08645)|null|
 |**2022-03-30**|**EnvEdit: Environment Editing for Vision-and-Language Navigation**|Jialu Li et.al.|[2203.15685](https://arxiv.org/abs/2203.15685)|**[link](https://github.com/52CV/CVPR-2022-Papers)**|
 |**2022-06-07**|**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**|Jing Gu et.al.|[2203.12667](https://arxiv.org/abs/2203.12667)|null|
 |**2022-03-22**|**Cross-modal Map Learning for Vision and Language Navigation**|Georgios Georgakis et.al.|[2203.05137](https://arxiv.org/abs/2203.05137)|**[link](https://github.com/52CV/CVPR-2022-Papers)**|
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Andrea Burns et.al.|[2202.02312](https://arxiv.org/abs/2202.02312)|**[link](https://github.com/codefuse-ai/Awesome-Code-LLM)**|
 |**2022-01-27**|**Self-supervised 3D Semantic Representation Learning for Vision-and-Language Navigation**|Sinan Tan et.al.|[2201.10788](https://arxiv.org/abs/2201.10788)|**[link](https://github.com/DirtyHarryLYL/Transformer-in-Vision)**|
 |**2021-12-10**|**Contrastive Instruction-Trajectory Learning for Vision-Language Navigation**|Xiwen Liang et.al.|[2112.04138](https://arxiv.org/abs/2112.04138)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2021-10-01**|**Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments**|Sonia Raychaudhuri et.al.|[2109.15207](https://arxiv.org/abs/2109.15207)|**[link](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)**|
+|**2021-10-01**|**Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments**|Sonia Raychaudhuri et.al.|[2109.15207](https://arxiv.org/abs/2109.15207)|null|
 |**2022-04-05**|**Vision-Language Navigation: A Survey and Taxonomy**|Wansen Wu et.al.|[2108.11544](https://arxiv.org/abs/2108.11544)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
 |**2021-08-23**|**Airbert: In-domain Pretraining for Vision-and-Language Navigation**|Pierre-Louis Guhur et.al.|[2108.09105](https://arxiv.org/abs/2108.09105)|**[link](https://github.com/ChanganVR/awesome-embodied-vision)**|
 |**2022-03-17**|**VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator**|Ayush Shrivastava et.al.|[2105.11589](https://arxiv.org/abs/2105.11589)|null|
 |**2021-08-26**|**The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation**|Yuankai Qi et.al.|[2104.04167](https://arxiv.org/abs/2104.04167)|**[link](https://github.com/ChanganVR/awesome-embodied-vision)**|
 |**2022-05-05**|**Diagnosing Vision-and-Language Navigation: What Really Matters**|Wanrong Zhu et.al.|[2103.16561](https://arxiv.org/abs/2103.16561)|**[link](https://github.com/eric-ai-lab/awesome-vision-language-navigation)**|
-|**2020-12-11**|**Topological Planning with Transformers for Vision-and-Language Navigation**|Kevin Chen et.al.|[2012.05292](https://arxiv.org/abs/2012.05292)|null|
+|**2020-12-11**|**Topological Planning with Transformers for Vision-and-Language Navigation**|Kevin Chen et.al.|[2012.05292](https://arxiv.org/abs/2012.05292)|**[link](https://github.com/52CV/CVPR-2021-Papers)**|
 |**2020-11-10**|**Sim-to-Real Transfer for Vision-and-Language Navigation**|Peter Anderson et.al.|[2011.03807](https://arxiv.org/abs/2011.03807)|**[link](https://github.com/ChanganVR/awesome-embodied-vision)**|
 |**2021-02-05**|**Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation**|Wanrong Zhu et.al.|[2007.00229](https://arxiv.org/abs/2007.00229)|**[link](https://github.com/eric-ai-lab/awesome-vision-language-navigation)**|
-|**2020-04-07**|**Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**|Weituo Hao et.al.|[2002.10638](https://arxiv.org/abs/2002.10638)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
+|**2020-04-07**|**Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**|Weituo Hao et.al.|[2002.10638](https://arxiv.org/abs/2002.10638)|null|
 |**2021-08-02**|**Multimodal Attention Networks for Low-Level Vision-and-Language Navigation**|Federico Landi et.al.|[1911.12377](https://arxiv.org/abs/1911.12377)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2020-12-08**|**Cross-Lingual Vision-Language Navigation**|An Yan et.al.|[1910.11301](https://arxiv.org/abs/1910.11301)|**[link](https://github.com/eric-ai-lab/awesome-vision-language-navigation)**|
-|**2019-08-14**|**Transferable Representation Learning in Vision-and-Language Navigation**|Haoshuo Huang et.al.|[1908.03409](https://arxiv.org/abs/1908.03409)|**[link](https://github.com/ChanganVR/awesome-embodied-vision)**|
+|**2019-08-14**|**Transferable Representation Learning in Vision-and-Language Navigation**|Haoshuo Huang et.al.|[1908.03409](https://arxiv.org/abs/1908.03409)|null|
 |**2019-10-15**|**Vision-and-Dialog Navigation**|Jesse Thomason et.al.|[1907.04957](https://arxiv.org/abs/1907.04957)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 |**2019-06-03**|**Multi-modal Discriminative Model for Vision-and-Language Navigation**|Haoshuo Huang et.al.|[1905.13358](https://arxiv.org/abs/1905.13358)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 |**2018-07-27**|**Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**|Xin Wang et.al.|[1803.07729](https://arxiv.org/abs/1803.07729)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
