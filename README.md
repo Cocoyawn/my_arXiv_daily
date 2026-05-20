@@ -4870,38 +4870,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](https://arxiv.org/abs/2605.19678)|**[link](https://github.com/HCPLab-SYSU/RoVLA)**|
-|**2026-05-19**|**PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models**|Peizheng Guo et.al.|[2605.19580](https://arxiv.org/abs/2605.19580)|null|
+|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](https://arxiv.org/abs/2605.19678)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-05-19**|**PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models**|Peizheng Guo et.al.|[2605.19580](https://arxiv.org/abs/2605.19580)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-05-18**|**StableVLA: Towards Robust Vision-Language-Action Models without Extra Data**|Yiyang Fu et.al.|[2605.18287](https://arxiv.org/abs/2605.18287)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-17**|**AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment**|Weijie Kong et.al.|[2605.17517](https://arxiv.org/abs/2605.17517)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-05-17**|**DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization**|Sixu Lin et.al.|[2605.17486](https://arxiv.org/abs/2605.17486)|null|
-|**2026-05-16**|**Contrastive Conceptor Activation Steering (COAST): Unlocking Vision-Language-Action Models through Hidden States**|Miranda Muqing Miao et.al.|[2605.17144](https://arxiv.org/abs/2605.17144)|null|
-|**2026-05-15**|**Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control**|Hüseyin Arslan et.al.|[2605.16056](https://arxiv.org/abs/2605.16056)|null|
+|**2026-05-17**|**DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization**|Sixu Lin et.al.|[2605.17486](https://arxiv.org/abs/2605.17486)|**[link](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)**|
+|**2026-05-16**|**Contrastive Conceptor Activation Steering (COAST): Unlocking Vision-Language-Action Models through Hidden States**|Miranda Muqing Miao et.al.|[2605.17144](https://arxiv.org/abs/2605.17144)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-05-15**|**Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control**|Hüseyin Arslan et.al.|[2605.16056](https://arxiv.org/abs/2605.16056)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-14**|**PhysBrain 1.0 Technical Report**|Shijie Lian et.al.|[2605.15298](https://arxiv.org/abs/2605.15298)|**[link](https://huggingface.co/models/Phys-Brain/PhysBrainVLA-RoboCasaGR1)**|
 |**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](https://arxiv.org/abs/2605.15195)|**[link](https://huggingface.co/datasets/aoiandroid/papers)**|
-|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950](https://arxiv.org/abs/2605.14950)|null|
+|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950](https://arxiv.org/abs/2605.14950)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-13**|**Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs**|Jiahui Niu et.al.|[2605.13778](https://arxiv.org/abs/2605.13778)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632](https://arxiv.org/abs/2605.13632)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403](https://arxiv.org/abs/2605.13403)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-05-14**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276](https://arxiv.org/abs/2605.13276)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
-|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119](https://arxiv.org/abs/2605.13119)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
-|**2026-05-17**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817](https://arxiv.org/abs/2605.11817)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403](https://arxiv.org/abs/2605.13403)|null|
+|**2026-05-14**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276](https://arxiv.org/abs/2605.13276)|null|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119](https://arxiv.org/abs/2605.13119)|null|
+|**2026-05-17**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817](https://arxiv.org/abs/2605.11817)|null|
 |**2026-05-12**|**Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models**|Huoren Yang et.al.|[2605.11809](https://arxiv.org/abs/2605.11809)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-12**|**OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models**|Seungwoo Roh et.al.|[2605.11678](https://arxiv.org/abs/2605.11678)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-05-18**|**Dynamic Execution Commitment of Vision-Language-Action Models**|Feng Chen et.al.|[2605.11567](https://arxiv.org/abs/2605.11567)|null|
-|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Pablo Ortega-Kral et.al.|[2605.11564](https://arxiv.org/abs/2605.11564)|null|
-|**2026-05-12**|**Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation**|Hao Wang et.al.|[2605.11479](https://arxiv.org/abs/2605.11479)|null|
-|**2026-05-17**|**Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?**|Maximilian Triebel et.al.|[2605.11223](https://arxiv.org/abs/2605.11223)|null|
+|**2026-05-18**|**Dynamic Execution Commitment of Vision-Language-Action Models**|Feng Chen et.al.|[2605.11567](https://arxiv.org/abs/2605.11567)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Pablo Ortega-Kral et.al.|[2605.11564](https://arxiv.org/abs/2605.11564)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-05-12**|**Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation**|Hao Wang et.al.|[2605.11479](https://arxiv.org/abs/2605.11479)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-05-17**|**Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?**|Maximilian Triebel et.al.|[2605.11223](https://arxiv.org/abs/2605.11223)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-09**|**ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models**|Yanbin Hu et.al.|[2605.10993](https://arxiv.org/abs/2605.10993)|null|
 |**2026-05-11**|**PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models**|Xinyu Guo et.al.|[2605.10925](https://arxiv.org/abs/2605.10925)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-11**|**CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models**|Wenxuan Song et.al.|[2605.10903](https://arxiv.org/abs/2605.10903)|**[link](https://huggingface.co/models/haofuly/capvector_models_collection)**|
 |**2026-05-13**|**ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models**|Zuojin Tang et.al.|[2605.10819](https://arxiv.org/abs/2605.10819)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-11**|**VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models**|Hao Wang et.al.|[2605.10485](https://arxiv.org/abs/2605.10485)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
 |**2026-05-11**|**LoopVLA: Learning Sufficiency in Recurrent Refinement for Vision-Language-Action Models**|Boyang Shen et.al.|[2605.09948](https://arxiv.org/abs/2605.09948)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-05-10**|**RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models**|Weijia Liufu et.al.|[2605.09410](https://arxiv.org/abs/2605.09410)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-05-09**|**Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models**|Ming Sun et.al.|[2605.09005](https://arxiv.org/abs/2605.09005)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-05-10**|**RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models**|Weijia Liufu et.al.|[2605.09410](https://arxiv.org/abs/2605.09410)|null|
+|**2026-05-09**|**Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models**|Ming Sun et.al.|[2605.09005](https://arxiv.org/abs/2605.09005)|null|
 |**2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Yinwei Dai et.al.|[2605.08638](https://arxiv.org/abs/2605.08638)|null|
-|**2026-05-09**|**ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models**|Kewei Chen et.al.|[2605.08612](https://arxiv.org/abs/2605.08612)|null|
+|**2026-05-09**|**ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models**|Kewei Chen et.al.|[2605.08612](https://arxiv.org/abs/2605.08612)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-05-12**|**Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models**|Meng Zheng et.al.|[2605.08434](https://arxiv.org/abs/2605.08434)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-05-06**|**Test-Time Training for Visual Foresight Vision-Language-Action Models**|Sangwu Park et.al.|[2605.08215](https://arxiv.org/abs/2605.08215)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-05-04**|**Understanding Asynchronous Inference Methods for Vision-Language-Action Models**|Ayoub Agouzoul et.al.|[2605.08168](https://arxiv.org/abs/2605.08168)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -4913,10 +4913,10 @@
 |**2026-05-06**|**RLDX-1 Technical Report**|Dongyoung Kim et.al.|[2605.03269](https://arxiv.org/abs/2605.03269)|**[link](https://huggingface.co/models/RLWRLD/RLDX-1-PT)**|
 |**2026-05-04**|**Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference**|Yudong Liu et.al.|[2605.02739](https://arxiv.org/abs/2605.02739)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-05-01**|**Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models**|Hanxin Zhang et.al.|[2605.00321](https://arxiv.org/abs/2605.00321)|**[link](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)**|
-|**2026-04-27**|**Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment**|Kaijun Zhou et.al.|[2604.24447](https://arxiv.org/abs/2604.24447)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-04-26**|**Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms**|Qi Li et.al.|[2604.23775](https://arxiv.org/abs/2604.23775)|**[link](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)**|
-|**2026-04-25**|**Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models**|Jimin Lee et.al.|[2604.23272](https://arxiv.org/abs/2604.23272)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-04-30**|**RL Token: Bootstrapping Online RL with Vision-Language-Action Models**|Charles Xu et.al.|[2604.23073](https://arxiv.org/abs/2604.23073)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-04-27**|**Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment**|Kaijun Zhou et.al.|[2604.24447](https://arxiv.org/abs/2604.24447)|null|
+|**2026-04-26**|**Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms**|Qi Li et.al.|[2604.23775](https://arxiv.org/abs/2604.23775)|null|
+|**2026-04-25**|**Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models**|Jimin Lee et.al.|[2604.23272](https://arxiv.org/abs/2604.23272)|null|
+|**2026-04-30**|**RL Token: Bootstrapping Online RL with Vision-Language-Action Models**|Charles Xu et.al.|[2604.23073](https://arxiv.org/abs/2604.23073)|null|
 |**2026-04-24**|**RedVLA: Physical Red Teaming for Vision-Language-Action Models**|Yuhao Zhang et.al.|[2604.22591](https://arxiv.org/abs/2604.22591)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-04-24**|**CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models**|Khoa Vo et.al.|[2604.22238](https://arxiv.org/abs/2604.22238)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-04-23**|**How VLAs (Really) Work In Open-World Environments**|Amir Rasouli et.al.|[2604.21192](https://arxiv.org/abs/2604.21192)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
