@@ -1,4 +1,4 @@
-## Updated on 2026.07.11
+## Updated on 2026.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2003,7 +2003,7 @@
 |**2017-06-15**|**Game-Theoretic Modeling of Human Adaptation in Human-Robot Collaboration**|Stefanos Nikolaidis et.al.|[1701.07790](https://arxiv.org/abs/1701.07790)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2017-06-15**|**Efficient Model Learning for Human-Robot Collaborative Tasks**|Stefanos Nikolaidis et.al.|[1405.6341](https://arxiv.org/abs/1405.6341)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Robotic Manipulation
 
@@ -6022,7 +6022,7 @@
 |**2017-07-27**|**Safe Robotic Grasping: Minimum Impact-Force Grasp Selection**|Nikos Mavrakis et.al.|[1707.08150](https://arxiv.org/abs/1707.08150)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2016-07-13**|**Human-Planned Robotic Grasp Ranges: Capture and Validation**|Brendon John et.al.|[1607.03366](https://arxiv.org/abs/1607.03366)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Vision Language Action Model
 
@@ -6815,7 +6815,7 @@
 |**2024-11-01**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](https://arxiv.org/abs/2302.12610)|**[link](https://github.com/rhett-chen/Robotic-grasping-papers)**|
 |**2021-08-02**|**Multimodal Attention Networks for Low-Level Vision-and-Language Navigation**|Federico Landi et.al.|[1911.12377](https://arxiv.org/abs/1911.12377)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Imitation Learning
 
@@ -6831,9 +6831,9 @@
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558](https://arxiv.org/abs/2607.06558)|**[link](https://huggingface.co/datasets/cy0307/awesome-egocentric-atlas)**|
 |**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Changti Wu et.al.|[2607.06442](https://arxiv.org/abs/2607.06442)|**[link](https://huggingface.co/datasets/cy0307/awesome-egocentric-atlas)**|
 |**2026-07-07**|**LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation**|Xinye Yang et.al.|[2607.06323](https://arxiv.org/abs/2607.06323)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-07-07**|**GraspIT: A Dataset Bridging the Sim-to-Real gap and back for Validated Grasping SE(3) Pose Generation**|Paul Koch. Adem Karakurt et.al.|[2607.05869](https://arxiv.org/abs/2607.05869)|null|
+|**2026-07-07**|**GraspIT: A Dataset Bridging the Sim-to-Real gap and back for Validated Grasping SE(3) Pose Generation**|Paul Koch. Adem Karakurt et.al.|[2607.05869](https://arxiv.org/abs/2607.05869)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-05**|**Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning**|Haiwen Yi et.al.|[2607.05458](https://arxiv.org/abs/2607.05458)|**[link](https://github.com/xianshang33/llm-paper-daily)**|
-|**2026-07-06**|**SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing**|Stone Tao et.al.|[2607.04616](https://arxiv.org/abs/2607.04616)|null|
+|**2026-07-06**|**SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing**|Stone Tao et.al.|[2607.04616](https://arxiv.org/abs/2607.04616)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-06**|**Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning**|Xinchuan Qiu et.al.|[2607.04591](https://arxiv.org/abs/2607.04591)|null|
 |**2026-07-06**|**A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training**|Junze Ye et.al.|[2607.04574](https://arxiv.org/abs/2607.04574)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941](https://arxiv.org/abs/2607.03941)|**[link](https://huggingface.co/models/zaleni/WSA-Base)**|
@@ -6842,8 +6842,8 @@
 |**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Yuquan Xue et.al.|[2607.02431](https://arxiv.org/abs/2607.02431)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-03**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Lu Pan et.al.|[2607.02034](https://arxiv.org/abs/2607.02034)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-02**|**One Demonstration Is Enough for Real-World Robotic Reinforcement Learning**|Yuwan Liu et.al.|[2607.01651](https://arxiv.org/abs/2607.01651)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](https://arxiv.org/abs/2607.01225)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-07-01**|**Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization**|Xuefeng Liu et.al.|[2607.00531](https://arxiv.org/abs/2607.00531)|null|
+|**2026-07-01**|**Language-Critique Imitation Learning from Suboptimal Demonstrations**|Chih-Han Yang et.al.|[2607.01225](https://arxiv.org/abs/2607.01225)|null|
+|**2026-07-01**|**Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization**|Xuefeng Liu et.al.|[2607.00531](https://arxiv.org/abs/2607.00531)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-21**|**Trajectory Learning with Graph Representations for Social Robot Navigation**|Berke Kartal et.al.|[2607.00028](https://arxiv.org/abs/2607.00028)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2026-06-30**|**Scalable Behaviour Cloning on Browser Using via Skill Distillation**|Kaisen Yang et.al.|[2606.32014](https://arxiv.org/abs/2606.32014)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-30**|**OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation**|Arnav Balaji et.al.|[2606.31993](https://arxiv.org/abs/2606.31993)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -6852,9 +6852,9 @@
 |**2026-06-30**|**Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot**|Ethan Marot et.al.|[2606.31807](https://arxiv.org/abs/2606.31807)|**[link](https://github.com/Foruck/Awesome-Human-Motion)**|
 |**2026-06-30**|**What Probing Reveals about Autonomous Driving: Linking Internal Prediction Errors to Ego Planning**|Hyeonchang Jeon et.al.|[2606.31106](https://arxiv.org/abs/2606.31106)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-29**|**Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback**|Ved Sriraman et.al.|[2606.30923](https://arxiv.org/abs/2606.30923)|**[link](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation)**|
-|**2026-06-29**|**From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation**|Ying Yuan et.al.|[2606.30749](https://arxiv.org/abs/2606.30749)|null|
-|**2026-06-29**|**When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon**|Huaqing Zhang et.al.|[2606.30445](https://arxiv.org/abs/2606.30445)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](https://arxiv.org/abs/2606.30316)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-06-29**|**From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation**|Ying Yuan et.al.|[2606.30749](https://arxiv.org/abs/2606.30749)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-06-29**|**When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon**|Huaqing Zhang et.al.|[2606.30445](https://arxiv.org/abs/2606.30445)|null|
+|**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](https://arxiv.org/abs/2606.30316)|null|
 |**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Siyao Chen et.al.|[2606.29892](https://arxiv.org/abs/2606.29892)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-28**|**CORE: Common Outcome Regularities from Action-Free Visual Demonstrations for Robot Manipulation**|Juyi Sheng et.al.|[2606.29517](https://arxiv.org/abs/2606.29517)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-28**|**Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering**|Hao Wang et.al.|[2606.29201](https://arxiv.org/abs/2606.29201)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
@@ -6862,12 +6862,12 @@
 |**2026-07-07**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](https://arxiv.org/abs/2606.28320)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375](https://arxiv.org/abs/2606.27375)|**[link](https://huggingface.co/datasets/XDOF/ABC-130k)**|
 |**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374](https://arxiv.org/abs/2606.27374)|**[link](https://github.com/leofan90/Awesome-World-Models)**|
-|**2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|E-In Son et.al.|[2606.26839](https://arxiv.org/abs/2606.26839)|null|
-|**2026-07-09**|**Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?**|Tyler Ga Wei Lum et.al.|[2606.26428](https://arxiv.org/abs/2606.26428)|null|
-|**2026-06-24**|**MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins**|Roy Xing et.al.|[2606.26392](https://arxiv.org/abs/2606.26392)|null|
+|**2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|E-In Son et.al.|[2606.26839](https://arxiv.org/abs/2606.26839)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-09**|**Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?**|Tyler Ga Wei Lum et.al.|[2606.26428](https://arxiv.org/abs/2606.26428)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-06-24**|**MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins**|Roy Xing et.al.|[2606.26392](https://arxiv.org/abs/2606.26392)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-24**|**Scaling Nonlinear Optimization: Many Problems One GPU**|John Viljoen et.al.|[2606.26341](https://arxiv.org/abs/2606.26341)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-25**|**G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance**|Hang Yu et.al.|[2606.26017](https://arxiv.org/abs/2606.26017)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-06-24**|**Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing**|Shuai Ke et.al.|[2606.25754](https://arxiv.org/abs/2606.25754)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-06-24**|**Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing**|Shuai Ke et.al.|[2606.25754](https://arxiv.org/abs/2606.25754)|null|
 |**2026-06-24**|**Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning**|Yanzhe Tang et.al.|[2606.25360](https://arxiv.org/abs/2606.25360)|null|
 |**2026-06-23**|**Spatio-Temporal Retrieval-based Priors for Adaptive Computational Teaching in Driving**|Deepak Edakkattil Gopinath et.al.|[2606.25224](https://arxiv.org/abs/2606.25224)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-06-23**|**Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control**|Rutav Shah et.al.|[2606.25136](https://arxiv.org/abs/2606.25136)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -7909,7 +7909,7 @@
 |**2018-05-28**|**Coordinated Multi-Agent Imitation Learning**|Hoang M. Le et.al.|[1703.03121](https://arxiv.org/abs/1703.03121)|**[link](https://github.com/zziz/pwc)**|
 |**2017-01-25**|**Imitating Driver Behavior with Generative Adversarial Networks**|Alex Kuefler et.al.|[1701.06699](https://arxiv.org/abs/1701.06699)|**[link](https://github.com/nightrome/really-awesome-gan)**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Robotic Navigation
 
@@ -8601,5 +8601,5 @@
 |**2018-07-27**|**Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**|Xin Wang et.al.|[1803.07729](https://arxiv.org/abs/1803.07729)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 |**2018-04-09**|**Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**|Peter Anderson et.al.|[1711.07280](https://arxiv.org/abs/1711.07280)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
