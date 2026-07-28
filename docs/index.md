@@ -2,38 +2,42 @@
 layout: default
 ---
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robot & Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](https://arxiv.org/abs/2607.22530)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434](https://arxiv.org/abs/2607.22434)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-07-24**|**One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments**|Jan Ole von Hartz et.al.|[2607.22119](https://arxiv.org/abs/2607.22119)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704](https://arxiv.org/abs/2607.23704)|null|
+|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473](https://arxiv.org/abs/2607.23473)|**[link](https://github.com/lsh3163/prism)**|
+|**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999](https://arxiv.org/abs/2607.22999)|null|
+|**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](https://arxiv.org/abs/2607.22997)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
+|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](https://arxiv.org/abs/2607.22530)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434](https://arxiv.org/abs/2607.22434)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-24**|**One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments**|Jan Ole von Hartz et.al.|[2607.22119](https://arxiv.org/abs/2607.22119)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](https://arxiv.org/abs/2607.22014)|**[link](https://github.com/xianshang33/llm-paper-daily)**|
-|**2026-07-24**|**ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset**|Shashank Rao Marpally et.al.|[2607.21964](https://arxiv.org/abs/2607.21964)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-07-23**|**StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach**|Erencem Ozbey et.al.|[2607.21802](https://arxiv.org/abs/2607.21802)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-07-24**|**ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset**|Shashank Rao Marpally et.al.|[2607.21964](https://arxiv.org/abs/2607.21964)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-23**|**StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach**|Erencem Ozbey et.al.|[2607.21802](https://arxiv.org/abs/2607.21802)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-22**|**Progress Reward Modeling for Robotic Learning: A Comprehensive Survey**|Jianshu Zhang et.al.|[2607.21655](https://arxiv.org/abs/2607.21655)|null|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](https://arxiv.org/abs/2607.21588)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](https://arxiv.org/abs/2607.21400)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309](https://arxiv.org/abs/2607.21309)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
-|**2026-07-22**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771](https://arxiv.org/abs/2607.20771)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309](https://arxiv.org/abs/2607.21309)|null|
+|**2026-07-24**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771](https://arxiv.org/abs/2607.20771)|null|
 |**2026-07-22**|**Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments**|Md Ridwan Hossain Talukder et.al.|[2607.20289](https://arxiv.org/abs/2607.20289)|null|
 |**2026-07-22**|**EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness**|Jialu Zhang et.al.|[2607.19880](https://arxiv.org/abs/2607.19880)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-21**|**Learning Personalized Safety Interventions for Haptic Human-Robot Shared Control**|Dawei Zhang et.al.|[2607.19534](https://arxiv.org/abs/2607.19534)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](https://arxiv.org/abs/2607.18985)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-25**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interaction**|Jialian Li et.al.|[2607.18985](https://arxiv.org/abs/2607.18985)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-21**|**WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory**|Haisheng Su et.al.|[2607.18840](https://arxiv.org/abs/2607.18840)|**[link](https://huggingface.co/models/manifoldai-research/WorldScape-Policy-2)**|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737](https://arxiv.org/abs/2607.18737)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-18**|**Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies**|Murali Indukuri et.al.|[2607.18325](https://arxiv.org/abs/2607.18325)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](https://arxiv.org/abs/2607.18236)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197](https://arxiv.org/abs/2607.18197)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
-|**2026-07-20**|**World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation**|Xinchen Yao et.al.|[2607.18154](https://arxiv.org/abs/2607.18154)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-20**|**World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation**|Xinchen Yao et.al.|[2607.18154](https://arxiv.org/abs/2607.18154)|null|
 |**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060](https://arxiv.org/abs/2607.18060)|null|
 |**2026-07-20**|**RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model**|Kehan Li et.al.|[2607.17977](https://arxiv.org/abs/2607.17977)|**[link](https://huggingface.co/spaces/hugging-apps/rynnbrain1-1-2b-demo)**|
-|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](https://arxiv.org/abs/2607.17806)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-07-19**|**STAR: Skeletal Token Alignment and Rearrangement for Interaction Recognition**|Yuhang Wen et.al.|[2607.17342](https://arxiv.org/abs/2607.17342)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](https://arxiv.org/abs/2607.17806)|null|
+|**2026-07-19**|**STAR: Skeletal Token Alignment and Rearrangement for Interaction Recognition**|Yuhang Wen et.al.|[2607.17342](https://arxiv.org/abs/2607.17342)|**[link](https://github.com/Necolizer/STAR)**|
 |**2026-07-19**|**Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction**|Tharusha Fonseka et.al.|[2607.17042](https://arxiv.org/abs/2607.17042)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-18**|**User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method**|Zi-Qi Yang et.al.|[2607.16998](https://arxiv.org/abs/2607.16998)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](https://arxiv.org/abs/2607.16896)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
@@ -42,9 +46,9 @@ layout: default
 |**2026-07-18**|**Autonomous VR-Based Risk Detection for Situational Awareness in Dangerous Settings**|Mohammad Eskandari et.al.|[2607.16582](https://arxiv.org/abs/2607.16582)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-07-16**|**S.E.A.G.R: A Socially and Emotionally Aware Greeting Robot Framework with Dual-Layer Cultural and Affective Modulation**|Sajjad Hussain et.al.|[2607.16341](https://arxiv.org/abs/2607.16341)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-07-15**|**The World According to a Social Robot -- Augmenting Human-Robot Dialogue With Vision Language Models**|Thomas Sievers et.al.|[2607.16318](https://arxiv.org/abs/2607.16318)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Ruogu Li et.al.|[2607.16187](https://arxiv.org/abs/2607.16187)|**[link](https://github.com/Foruck/Awesome-Human-Motion)**|
+|**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Ruogu Li et.al.|[2607.16187](https://arxiv.org/abs/2607.16187)|null|
 |**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](https://arxiv.org/abs/2607.15890)|**[link](https://huggingface.co/datasets/cy0307/awesome-egocentric-atlas)**|
-|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641](https://arxiv.org/abs/2607.15641)|null|
+|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641](https://arxiv.org/abs/2607.15641)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-21**|**PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction**|Peizhen Li et.al.|[2607.15579](https://arxiv.org/abs/2607.15579)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-16**|**Risk-Aware Preference Learning for Stochastic Outcomes**|Yi-Shiuan Tung et.al.|[2607.15483](https://arxiv.org/abs/2607.15483)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275](https://arxiv.org/abs/2607.15275)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
