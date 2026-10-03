@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robot & Agent
@@ -8979,12 +8979,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-01**|**Iterative Policy Refinement through Semantic Rollout Analysis**|Feiyu Gavin Zhu et.al.|[2610.01652](https://arxiv.org/abs/2610.01652)|null|
-|**2026-10-01**|**Measuring the Stability Assumption Behind Action Chunking**|Aryan Goyal et.al.|[2610.01626](https://arxiv.org/abs/2610.01626)|null|
+|**2026-10-01**|**Iterative Policy Refinement through Semantic Rollout Analysis**|Feiyu Gavin Zhu et.al.|[2610.01652](https://arxiv.org/abs/2610.01652)|**[link](https://github.com/NY1024/AgentSafety-Papers)**|
+|**2026-10-01**|**Measuring the Stability Assumption Behind Action Chunking**|Aryan Goyal et.al.|[2610.01626](https://arxiv.org/abs/2610.01626)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-10-01**|**Optimal Transport Meets Reinforcement Learning: A Survey**|Yujie Zhu et.al.|[2610.01413](https://arxiv.org/abs/2610.01413)|null|
-|**2026-10-01**|**Divide-and-Remember: Recursive Action-Relevant Memory for Long-Horizon VLA Policies**|Xuehui Yu et.al.|[2610.00982](https://arxiv.org/abs/2610.00982)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-30**|**Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention**|Siddeshwar Raghavan et.al.|[2610.00542](https://arxiv.org/abs/2610.00542)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-30**|**Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon**|Johannes F. Loevenich et.al.|[2610.00422](https://arxiv.org/abs/2610.00422)|null|
+|**2026-10-01**|**Divide-and-Remember: Recursive Action-Relevant Memory for Long-Horizon VLA Policies**|Xuehui Yu et.al.|[2610.00982](https://arxiv.org/abs/2610.00982)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-30**|**Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention**|Siddeshwar Raghavan et.al.|[2610.00542](https://arxiv.org/abs/2610.00542)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-30**|**Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon**|Johannes F. Loevenich et.al.|[2610.00422](https://arxiv.org/abs/2610.00422)|**[link](https://github.com/tongchen2010/daily-ai-papers)**|
 |**2026-09-30**|**Identifiable Decomposition of Submovements in Human Hand Trajectories**|Adrian Prados et.al.|[2609.40012](https://arxiv.org/abs/2609.40012)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](https://arxiv.org/abs/2609.39038)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
 |**2026-09-30**|**Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving**|Chenglin Chen et.al.|[2609.38862](https://arxiv.org/abs/2609.38862)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
@@ -8992,42 +8992,42 @@ layout: default
 |**2026-09-30**|**Learning to Route in Visual Space via Multi-Step Embedding Retrieval**|Tianyu Chen et.al.|[2609.38743](https://arxiv.org/abs/2609.38743)|**[link](https://github.com/Ponkux/DailyArXiv-cp)**|
 |**2026-09-29**|**Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving**|Bruno Maciel Machado et.al.|[2609.38472](https://arxiv.org/abs/2609.38472)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-29**|**Disagreement-Regularized Imitation Learning for Image-Based Continuous Control with Gaussian and Beta Policies**|Irving Giovani Bronzatti Petrazzini et.al.|[2609.38407](https://arxiv.org/abs/2609.38407)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
-|**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401](https://arxiv.org/abs/2609.38401)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2026-09-28**|**SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets**|Yuto Tanaka et.al.|[2609.38225](https://arxiv.org/abs/2609.38225)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401](https://arxiv.org/abs/2609.38401)|null|
+|**2026-09-28**|**SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets**|Yuto Tanaka et.al.|[2609.38225](https://arxiv.org/abs/2609.38225)|null|
 |**2026-09-29**|**VoxelSage: Tool-Augmented 3D CT Analysis and Simulator-Shielded Sequential Resection Planning for Liver Tumors**|Binghong Qian et.al.|[2609.37648](https://arxiv.org/abs/2609.37648)|null|
 |**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599](https://arxiv.org/abs/2609.37599)|null|
 |**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Johannes Hechtl et.al.|[2609.37552](https://arxiv.org/abs/2609.37552)|null|
-|**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Vincenzo Pomponi et.al.|[2609.37348](https://arxiv.org/abs/2609.37348)|null|
-|**2026-09-29**|**Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport**|Sergio Calo et.al.|[2609.37239](https://arxiv.org/abs/2609.37239)|**[link](https://github.com/teddytennant/dbot)**|
+|**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Vincenzo Pomponi et.al.|[2609.37348](https://arxiv.org/abs/2609.37348)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-09-29**|**Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport**|Sergio Calo et.al.|[2609.37239](https://arxiv.org/abs/2609.37239)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-09-29**|**Multi-Granularity Language-Guided Imitation Learning via Instruction Decomposition**|Yi-Pei Chiu et.al.|[2609.37135](https://arxiv.org/abs/2609.37135)|**[link](https://github.com/ttylerzh/robotics_paper_daily)**|
-|**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084](https://arxiv.org/abs/2609.37084)|null|
-|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|null|
-|**2026-09-30**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851](https://arxiv.org/abs/2609.36851)|null|
-|**2026-09-29**|**BiFE: Search-Efficient Discovery of CPU-Only Branching Policies via LLM-based Bi-Fidelity Evolution**|Ce Zhang et.al.|[2609.36735](https://arxiv.org/abs/2609.36735)|null|
-|**2026-09-29**|**EquivDP3: A SIM(3)-Invariant Point-Cloud Encoder for Data-Efficient Humanoid Loco-Manipulation**|Abu Hanif Muhammad Syarubany et.al.|[2609.36575](https://arxiv.org/abs/2609.36575)|null|
+|**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084](https://arxiv.org/abs/2609.37084)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-30**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851](https://arxiv.org/abs/2609.36851)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2026-09-29**|**BiFE: Search-Efficient Discovery of CPU-Only Branching Policies via LLM-based Bi-Fidelity Evolution**|Ce Zhang et.al.|[2609.36735](https://arxiv.org/abs/2609.36735)|**[link](https://github.com/CIAM-Group/awesome-llm4aad)**|
+|**2026-09-29**|**EquivDP3: A SIM(3)-Invariant Point-Cloud Encoder for Data-Efficient Humanoid Loco-Manipulation**|Abu Hanif Muhammad Syarubany et.al.|[2609.36575](https://arxiv.org/abs/2609.36575)|**[link](https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning)**|
 |**2026-09-29**|**Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning**|Hanbin Zhou et.al.|[2609.35698](https://arxiv.org/abs/2609.35698)|**[link](https://github.com/ttylerzh/robotics_paper_daily)**|
-|**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang et.al.|[2609.35039](https://arxiv.org/abs/2609.35039)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
-|**2026-09-28**|**Proactive Dialogue Policy Optimization via Cognitive-State Transition**|Minghui Ma et.al.|[2609.34948](https://arxiv.org/abs/2609.34948)|**[link](https://github.com/Nicolas99-9/llm-agent-simulation-papers)**|
-|**2026-09-28**|**Adjoint Guidance Flow: Amortized Critic Guidance for VLA Policies**|Jeongsol Kim et.al.|[2609.34944](https://arxiv.org/abs/2609.34944)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-09-28**|**AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving**|Haoran Zhu et.al.|[2609.34085](https://arxiv.org/abs/2609.34085)|**[link](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)**|
+|**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang et.al.|[2609.35039](https://arxiv.org/abs/2609.35039)|null|
+|**2026-09-28**|**Proactive Dialogue Policy Optimization via Cognitive-State Transition**|Minghui Ma et.al.|[2609.34948](https://arxiv.org/abs/2609.34948)|null|
+|**2026-09-28**|**Adjoint Guidance Flow: Amortized Critic Guidance for VLA Policies**|Jeongsol Kim et.al.|[2609.34944](https://arxiv.org/abs/2609.34944)|null|
+|**2026-09-28**|**AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving**|Haoran Zhu et.al.|[2609.34085](https://arxiv.org/abs/2609.34085)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2026-09-30**|**TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation**|Wenjie Li et.al.|[2609.34006](https://arxiv.org/abs/2609.34006)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-09-27**|**lapanda: A Matrix-Free Differentiable Solver for Nonconvex Constrained Optimization Layers**|Yuankun Chen et.al.|[2609.33630](https://arxiv.org/abs/2609.33630)|null|
-|**2026-09-27**|**Beyond Conservatism: Recoverability-Conditioned Exploration for Model-Based Imitation Learning**|Xuanlin Chen et.al.|[2609.33336](https://arxiv.org/abs/2609.33336)|null|
-|**2026-09-29**|**Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning**|Peiyan Li et.al.|[2609.33145](https://arxiv.org/abs/2609.33145)|null|
-|**2026-09-27**|**Is Online Interaction Necessary for Recovery? A Minimalist Approach to Robust Planning via Perturbation**|Bumgeun Park et.al.|[2609.33049](https://arxiv.org/abs/2609.33049)|null|
+|**2026-09-27**|**Beyond Conservatism: Recoverability-Conditioned Exploration for Model-Based Imitation Learning**|Xuanlin Chen et.al.|[2609.33336](https://arxiv.org/abs/2609.33336)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-09-29**|**Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning**|Peiyan Li et.al.|[2609.33145](https://arxiv.org/abs/2609.33145)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-27**|**Is Online Interaction Necessary for Recovery? A Minimalist Approach to Robust Planning via Perturbation**|Bumgeun Park et.al.|[2609.33049](https://arxiv.org/abs/2609.33049)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-26**|**An Empirical Study on What Matters for Viewpoint-Generalizable Policies in Visual Imitation Learning**|Mino Nakura et.al.|[2609.32762](https://arxiv.org/abs/2609.32762)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-09-26**|**Federated Subspace Guided Vision-Language-Action Policy Distillation for Non-IID Multi-Robot Manipulation**|Biprodip Pal et.al.|[2609.32239](https://arxiv.org/abs/2609.32239)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-09-26**|**RoboFFT: Finetuning generative robot policy via online reinforcement learning with forward process**|Yu Li et.al.|[2609.32236](https://arxiv.org/abs/2609.32236)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-09-25**|**Decentralized Master-Mind: Joint Action Refinement through Iterative Intent Denoising in Multi-Agent Pathfinding**|Valeriy Vyaltsev et.al.|[2609.32019](https://arxiv.org/abs/2609.32019)|**[link](https://github.com/Nicolas99-9/llm-agent-simulation-papers)**|
-|**2026-09-25**|**Guiding End-to-End Driving Models with Endpoint-Constrained Trajectory Optimization**|Brayden Zhang et.al.|[2609.31383](https://arxiv.org/abs/2609.31383)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2026-09-26**|**Federated Subspace Guided Vision-Language-Action Policy Distillation for Non-IID Multi-Robot Manipulation**|Biprodip Pal et.al.|[2609.32239](https://arxiv.org/abs/2609.32239)|null|
+|**2026-09-26**|**RoboFFT: Finetuning generative robot policy via online reinforcement learning with forward process**|Yu Li et.al.|[2609.32236](https://arxiv.org/abs/2609.32236)|null|
+|**2026-09-25**|**Decentralized Master-Mind: Joint Action Refinement through Iterative Intent Denoising in Multi-Agent Pathfinding**|Valeriy Vyaltsev et.al.|[2609.32019](https://arxiv.org/abs/2609.32019)|null|
+|**2026-09-25**|**Guiding End-to-End Driving Models with Endpoint-Constrained Trajectory Optimization**|Brayden Zhang et.al.|[2609.31383](https://arxiv.org/abs/2609.31383)|null|
 |**2026-09-25**|**Towards VLA-Dreamer: Refining VLA Behavior Using World Models**|Parsa Mastouri Kashani et.al.|[2609.31313](https://arxiv.org/abs/2609.31313)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-09-25**|**Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling**|Guanlin Li et.al.|[2609.31207](https://arxiv.org/abs/2609.31207)|**[link](https://github.com/liliu-avril/Awesome-Segment-Anything)**|
 |**2026-09-25**|**PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion Learning**|Jeremy Siburian et.al.|[2609.30889](https://arxiv.org/abs/2609.30889)|**[link](https://github.com/linchangyi1/Awesome-Touch)**|
 |**2026-09-25**|**Impedance Cloning: Learning Equilibrium Point Parameters for Contact-Rich Manipulation**|Hayato Takahashi et.al.|[2609.30842](https://arxiv.org/abs/2609.30842)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-09-25**|**Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic**|Nuthasith Gerdpratoom et.al.|[2609.30696](https://arxiv.org/abs/2609.30696)|null|
-|**2026-09-25**|**Can a Robot Read Braille? - Learning to Adapt Contact via Imitation Learning for Tactile Braille Recognition**|Xi Chen et.al.|[2609.30676](https://arxiv.org/abs/2609.30676)|null|
-|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|null|
-|**2026-09-24**|**Policy-Calibrated DAgger: Offline Calibrated Noise Injection for Imitation Learning**|Jenny Wang et.al.|[2609.30462](https://arxiv.org/abs/2609.30462)|null|
+|**2026-09-25**|**Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic**|Nuthasith Gerdpratoom et.al.|[2609.30696](https://arxiv.org/abs/2609.30696)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-25**|**Can a Robot Read Braille? - Learning to Adapt Contact via Imitation Learning for Tactile Braille Recognition**|Xi Chen et.al.|[2609.30676](https://arxiv.org/abs/2609.30676)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521](https://arxiv.org/abs/2609.30521)|**[link](https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning)**|
+|**2026-09-24**|**Policy-Calibrated DAgger: Offline Calibrated Noise Injection for Imitation Learning**|Jenny Wang et.al.|[2609.30462](https://arxiv.org/abs/2609.30462)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-24**|**POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems**|Sang Min Kim et.al.|[2609.30404](https://arxiv.org/abs/2609.30404)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
 |**2026-09-24**|**From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning**|Yichen Lin et.al.|[2609.30391](https://arxiv.org/abs/2609.30391)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2026-09-24**|**Training-free Behavior Cloning**|Maximilian Adang et.al.|[2609.30134](https://arxiv.org/abs/2609.30134)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
