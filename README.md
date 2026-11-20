@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3221,7 +3221,7 @@
 |**2017-06-15**|**Game-Theoretic Modeling of Human Adaptation in Human-Robot Collaboration**|Stefanos Nikolaidis et.al.|[1701.07790](https://arxiv.org/abs/1701.07790)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2017-06-15**|**Efficient Model Learning for Human-Robot Collaborative Tasks**|Stefanos Nikolaidis et.al.|[1405.6341](https://arxiv.org/abs/1405.6341)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Robotic Manipulation
 
@@ -9596,7 +9596,7 @@
 |**2017-07-27**|**Safe Robotic Grasping: Minimum Impact-Force Grasp Selection**|Nikos Mavrakis et.al.|[1707.08150](https://arxiv.org/abs/1707.08150)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2016-07-13**|**Human-Planned Robotic Grasp Ranges: Capture and Validation**|Brendon John et.al.|[1607.03366](https://arxiv.org/abs/1607.03366)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Vision Language Action Model
 
@@ -10766,7 +10766,7 @@
 |**2024-11-01**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](https://arxiv.org/abs/2302.12610)|**[link](https://github.com/rhett-chen/Robotic-grasping-papers)**|
 |**2021-08-02**|**Multimodal Attention Networks for Low-Level Vision-and-Language Navigation**|Federico Landi et.al.|[1911.12377](https://arxiv.org/abs/1911.12377)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Imitation Learning
 
@@ -12313,43 +12313,46 @@
 |**2018-05-28**|**Coordinated Multi-Agent Imitation Learning**|Hoang M. Le et.al.|[1703.03121](https://arxiv.org/abs/1703.03121)|**[link](https://github.com/zziz/pwc)**|
 |**2017-01-25**|**Imitating Driver Behavior with Generative Adversarial Networks**|Alex Kuefler et.al.|[1701.06699](https://arxiv.org/abs/1701.06699)|**[link](https://github.com/nightrome/really-awesome-gan)**|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Robotic Navigation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-18**|**Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors**|Eerik Alamikkotervo et.al.|[2611.24696](https://arxiv.org/abs/2611.24696)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-11-18**|**Hydrodynamics of robotic micro-swimmers in confinement**|Giovanni Corsi et.al.|[2611.24631](https://arxiv.org/abs/2611.24631)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-11-18**|**BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation**|Iana Zhura et.al.|[2611.24155](https://arxiv.org/abs/2611.24155)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](https://arxiv.org/abs/2611.26414)|null|
+|**2026-11-19**|**Beyond Easy Clients: Difficulty- and Improvement-Aware Aggregation for Federated Reinforcement Learning in Robot Navigation**|Ye Lin Tun et.al.|[2611.25637](https://arxiv.org/abs/2611.25637)|null|
+|**2026-11-18**|**Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots**|Wanting Jin et.al.|[2611.25067](https://arxiv.org/abs/2611.25067)|**[link](https://github.com/WantingJIN/Mobile_robot_gas_source_localization)**|
+|**2026-11-18**|**Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors**|Eerik Alamikkotervo et.al.|[2611.24696](https://arxiv.org/abs/2611.24696)|null|
+|**2026-11-18**|**Hydrodynamics of robotic micro-swimmers in confinement**|Giovanni Corsi et.al.|[2611.24631](https://arxiv.org/abs/2611.24631)|null|
+|**2026-11-18**|**BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation**|Iana Zhura et.al.|[2611.24155](https://arxiv.org/abs/2611.24155)|null|
 |**2026-11-18**|**AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation**|Shiwei Wu et.al.|[2611.24077](https://arxiv.org/abs/2611.24077)|**[link](https://huggingface.co/models/DavidWu1116/AeroRSI)**|
-|**2026-11-18**|**A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments**|Yuze Wu et.al.|[2611.23930](https://arxiv.org/abs/2611.23930)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-11-18**|**A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments**|Yuze Wu et.al.|[2611.23930](https://arxiv.org/abs/2611.23930)|**[link](https://github.com/cakerdsp/geometry-vision-daily)**|
 |**2026-11-18**|**Navigating Robots from Unknown and Uncalibrated Exocentric Cameras via Map Estimation**|Raul Steinmetz et.al.|[2611.23894](https://arxiv.org/abs/2611.23894)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-11-18**|**RoboDx: Repair and Diagnosis of Faults in Robot Software**|Soham Dan et.al.|[2611.23816](https://arxiv.org/abs/2611.23816)|null|
-|**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883](https://arxiv.org/abs/2611.22883)|null|
-|**2026-11-17**|**CRA: Continuous Risk Assessment for Safety-critical Visual Navigation**|Lihao Zheng et.al.|[2611.22080](https://arxiv.org/abs/2611.22080)|null|
-|**2026-11-16**|**Learning and Verifying Progress: Closed-Loop Agentic Planning with Progress-Enhanced Execution for Long-Horizon Vision-Language Navigation**|Kangjie Zhou et.al.|[2611.20676](https://arxiv.org/abs/2611.20676)|null|
+|**2026-11-18**|**RoboDx: Repair and Diagnosis of Faults in Robot Software**|Soham Dan et.al.|[2611.23816](https://arxiv.org/abs/2611.23816)|**[link](https://github.com/YanjieZe/awesome-agentic-robotics)**|
+|**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883](https://arxiv.org/abs/2611.22883)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-11-17**|**CRA: Continuous Risk Assessment for Safety-critical Visual Navigation**|Lihao Zheng et.al.|[2611.22080](https://arxiv.org/abs/2611.22080)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-11-16**|**Learning and Verifying Progress: Closed-Loop Agentic Planning with Progress-Enhanced Execution for Long-Horizon Vision-Language Navigation**|Kangjie Zhou et.al.|[2611.20676](https://arxiv.org/abs/2611.20676)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-16**|**Fuzzy Explainable Continual Hierarchical Reinforcement Learning for Robotic Navigation**|Peng Qin et.al.|[2611.20427](https://arxiv.org/abs/2611.20427)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-11-15**|**Remember, Replay, Adapt: Learning from Past Experience in Online Vision-and-Language Navigation**|Chenhao Ding et.al.|[2611.19901](https://arxiv.org/abs/2611.19901)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-11-15**|**EasyNav: A Modular Architecture for Real-Time Navigation Across Heterogeneous Robot Environments**|Francisco Martín Rico et.al.|[2611.19894](https://arxiv.org/abs/2611.19894)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-11-14**|**PSK: A Matrix-Free Single-Loop Method for K-Level Physics-Based Control**|Zherong Pan et.al.|[2611.19660](https://arxiv.org/abs/2611.19660)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
-|**2026-11-14**|**VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation**|Ruizhe Xie et.al.|[2611.19287](https://arxiv.org/abs/2611.19287)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-11-14**|**VLN-Flash: Parallel Action Decoding with Adaptive Execution for Vision-and-Language Navigation**|Ruizhe Xie et.al.|[2611.19287](https://arxiv.org/abs/2611.19287)|null|
 |**2026-11-13**|**Passage-Focused Soft Coordination for Hierarchical Multi-Robot Navigation in Bottleneck Environments**|Haoze Dong et.al.|[2611.18877](https://arxiv.org/abs/2611.18877)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-11-16**|**Racing the Clock: Teaching VLNs Budget-Conditioned Object Search**|Maitree Meher et.al.|[2611.17442](https://arxiv.org/abs/2611.17442)|**[link](https://github.com/YanjieZe/awesome-agentic-robotics)**|
 |**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](https://arxiv.org/abs/2611.17330)|**[link](https://github.com/JethroJames/awesome-robots-icl)**|
-|**2026-11-12**|**Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras**|Raul Steinmetz et.al.|[2611.16282](https://arxiv.org/abs/2611.16282)|null|
+|**2026-11-12**|**Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras**|Raul Steinmetz et.al.|[2611.16282](https://arxiv.org/abs/2611.16282)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
 |**2026-11-10**|**A Faster and Efficient Indoor User Localization Using Bistatic MIMO Radar**|Shadab Anjum et.al.|[2611.13828](https://arxiv.org/abs/2611.13828)|null|
 |**2026-11-10**|**From Depth to Safe Depth: Uncertainty-Aware Monocular Perception for Mobile Robot Navigation**|Saeid Firouzi Daghigh et.al.|[2611.13769](https://arxiv.org/abs/2611.13769)|null|
 |**2026-11-10**|**OASIS: Optimization-Aware Subgoal Inference with Safety Constraints for Autonomous Mobile Robot Navigation**|Arian Hajizadeh et.al.|[2611.11996](https://arxiv.org/abs/2611.11996)|null|
-|**2026-11-08**|**Reaching Is Not Finding: Map-Anchored Visual Prompting for the Last Mile of Aerial Vision-Language Navigation**|Ningbo Li et.al.|[2611.11510](https://arxiv.org/abs/2611.11510)|**[link](https://github.com/20bytes/Aerial-VLN-Arxiv-Daily)**|
+|**2026-11-08**|**Reaching Is Not Finding: Map-Anchored Visual Prompting for the Last Mile of Aerial Vision-Language Navigation**|Ningbo Li et.al.|[2611.11510](https://arxiv.org/abs/2611.11510)|null|
 |**2026-11-07**|**CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments**|Qizhao Chen et.al.|[2611.10366](https://arxiv.org/abs/2611.10366)|**[link](https://github.com/Ponkux/DailyArXiv-cp)**|
 |**2026-11-06**|**DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning**|Seokin Seo et.al.|[2611.09433](https://arxiv.org/abs/2611.09433)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-06**|**FASTFUNNELS: Agile Multi Robot Navigation in Narrow Spaces via Adaptive Dynamic Funnels**|Vignesh Rajagopal et.al.|[2611.09005](https://arxiv.org/abs/2611.09005)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-11-06**|**Polarization calibration of fisheye cameras using skylight in the wild**|Shuo Wang et.al.|[2611.08911](https://arxiv.org/abs/2611.08911)|null|
 |**2026-11-04**|**Beyond Infraction Scores: Failure-Boundary Profiles for Closed-Loop Evaluation of Driving and Robot Navigation Agents**|Milan Bulat et.al.|[2611.06453](https://arxiv.org/abs/2611.06453)|null|
-|**2026-11-03**|**WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation**|Manthan Patel et.al.|[2611.05129](https://arxiv.org/abs/2611.05129)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
+|**2026-11-03**|**WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation**|Manthan Patel et.al.|[2611.05129](https://arxiv.org/abs/2611.05129)|null|
 |**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Abhijeet M. Kulkarni et.al.|[2611.04972](https://arxiv.org/abs/2611.04972)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
-|**2026-11-03**|**Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum**|Nikola Fischer et.al.|[2611.03446](https://arxiv.org/abs/2611.03446)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-11-03**|**Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum**|Nikola Fischer et.al.|[2611.03446](https://arxiv.org/abs/2611.03446)|**[link](https://github.com/RLCL-EIT/robotics_arxiv_daily)**|
 |**2026-11-02**|**MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context**|Yasamin Borhani et.al.|[2611.03189](https://arxiv.org/abs/2611.03189)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
 |**2026-10-30**|**AC-SMPC: Differentiable Actor--Critic MPC with State Constraints for Safe and Fast Robot Navigation**|Chaoran Wu et.al.|[2610.41477](https://arxiv.org/abs/2610.41477)|null|
 |**2026-10-30**|**Beyond Trial-and-Error: A Geospatial-Guided Active Reasoning Framework for Robust Aerial Vision-and-Language Navigation**|Jiawei Ge et.al.|[2610.41446](https://arxiv.org/abs/2610.41446)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
@@ -12357,7 +12360,7 @@
 |**2026-10-29**|**Robot Navigation and Canine Welfare: A Pilot Study Surfacing Challenges for Cross-Species Legibility and Proxy Validity in Animal-Machine Interaction**|Haoxiang Zhang et.al.|[2610.40921](https://arxiv.org/abs/2610.40921)|null|
 |**2026-10-29**|**LLM-guided Planar Loco-Manipulation for Quadruped Robots**|Georges Jetti et.al.|[2610.40248](https://arxiv.org/abs/2610.40248)|null|
 |**2026-10-29**|**Decision-Level Error Attribution and Depth-Aware Safety Evaluation of Monocular RGB Human Tracking for Autonomous Robot Navigation**|Abdulahi Taiwo et.al.|[2610.40199](https://arxiv.org/abs/2610.40199)|null|
-|**2026-10-29**|**Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory**|Kai Sheng et.al.|[2610.39446](https://arxiv.org/abs/2610.39446)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
+|**2026-10-29**|**Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory**|Kai Sheng et.al.|[2610.39446](https://arxiv.org/abs/2610.39446)|null|
 |**2026-10-28**|**Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation**|Mason Peterson et.al.|[2610.38993](https://arxiv.org/abs/2610.38993)|**[link](https://github.com/LMD0311/Awesome-World-Model)**|
 |**2026-11-03**|**What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation**|Yuhang Peng et.al.|[2610.38318](https://arxiv.org/abs/2610.38318)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
 |**2026-10-28**|**MATCH: Execution-Aware Hierarchical Reinforcement Learning for Vision-and-Language Navigation in Continuous Environment**|Shuhao Ye et.al.|[2610.38248](https://arxiv.org/abs/2610.38248)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
@@ -13287,5 +13290,5 @@
 |**2018-07-27**|**Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**|Xin Wang et.al.|[1803.07729](https://arxiv.org/abs/1803.07729)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 |**2018-04-09**|**Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**|Peter Anderson et.al.|[1711.07280](https://arxiv.org/abs/1711.07280)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
