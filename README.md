@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3231,7 +3231,7 @@
 |**2017-06-15**|**Game-Theoretic Modeling of Human Adaptation in Human-Robot Collaboration**|Stefanos Nikolaidis et.al.|[1701.07790](https://arxiv.org/abs/1701.07790)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2017-06-15**|**Efficient Model Learning for Human-Robot Collaborative Tasks**|Stefanos Nikolaidis et.al.|[1405.6341](https://arxiv.org/abs/1405.6341)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Robotic Manipulation
 
@@ -9651,7 +9651,7 @@
 |**2017-07-27**|**Safe Robotic Grasping: Minimum Impact-Force Grasp Selection**|Nikos Mavrakis et.al.|[1707.08150](https://arxiv.org/abs/1707.08150)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2016-07-13**|**Human-Planned Robotic Grasp Ranges: Capture and Validation**|Brendon John et.al.|[1607.03366](https://arxiv.org/abs/1607.03366)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Vision Language Action Model
 
@@ -10828,57 +10828,60 @@
 |**2024-11-01**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](https://arxiv.org/abs/2302.12610)|**[link](https://github.com/rhett-chen/Robotic-grasping-papers)**|
 |**2021-08-02**|**Multimodal Attention Networks for Low-Level Vision-and-Language Navigation**|Federico Landi et.al.|[1911.12377](https://arxiv.org/abs/1911.12377)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293](https://arxiv.org/abs/2611.26293)|null|
-|**2026-11-18**|**Latent Action Policies from Suboptimal Data**|Donghyeon Ki et.al.|[2611.24482](https://arxiv.org/abs/2611.24482)|null|
-|**2026-11-18**|**Old Experience, New Lessons: Relabeling Autonomous Robot Rollouts in Interactive Imitation Learning**|Zhaoting Li et.al.|[2611.24273](https://arxiv.org/abs/2611.24273)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-20**|**EgoLAM: Learning Latent Actions from Hand and Head Motion**|Ziyi Ding et.al.|[2611.27290](https://arxiv.org/abs/2611.27290)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-19**|**FlowScope: 3D Scene Flow Pretraining Improves Surgical Robot Policies**|John J. Han et.al.|[2611.26865](https://arxiv.org/abs/2611.26865)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-19**|**NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration**|Shengyuan Lin et.al.|[2611.26807](https://arxiv.org/abs/2611.26807)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293](https://arxiv.org/abs/2611.26293)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
+|**2026-11-18**|**Latent Action Policies from Suboptimal Data**|Donghyeon Ki et.al.|[2611.24482](https://arxiv.org/abs/2611.24482)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-18**|**Old Experience, New Lessons: Relabeling Autonomous Robot Rollouts in Interactive Imitation Learning**|Zhaoting Li et.al.|[2611.24273](https://arxiv.org/abs/2611.24273)|**[link](https://github.com/cocacola-lab/awesome-embodied-rsi)**|
 |**2026-11-18**|**RecallFlow: Episodic Memory as the Source Distribution of Generative Robot Policies**|Xuji Zhang et.al.|[2611.23731](https://arxiv.org/abs/2611.23731)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-18**|**Improving While Deployed: Learning Proactive End-to-End Driving from Imperfect Human Takeover Data**|Yangang Ren et.al.|[2611.23719](https://arxiv.org/abs/2611.23719)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-11-18**|**Improving While Deployed: Learning Proactive End-to-End Driving from Imperfect Human Takeover Data**|Yangang Ren et.al.|[2611.23719](https://arxiv.org/abs/2611.23719)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-17**|**Neural Circuit Architectural Priors for Rat Locomotion**|Nikhil X. Bhattasali et.al.|[2611.23364](https://arxiv.org/abs/2611.23364)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-17**|**Body Schema Policy: Body as the Vision-Action Interface for Efficient Robot Loco-Manipulation**|Lechen Zhang et.al.|[2611.22713](https://arxiv.org/abs/2611.22713)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
-|**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691](https://arxiv.org/abs/2611.22691)|**[link](https://github.com/LMD0311/Awesome-World-Model)**|
-|**2026-11-17**|**Progress Predicts Policy**|Licheng Zhong et.al.|[2611.22491](https://arxiv.org/abs/2611.22491)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-17**|**Stability-Constrained Imitation Learning for Performance-Guaranteed Neural Feedback Frequency Control in Microgrids**|Sajid Kamal et.al.|[2611.22129](https://arxiv.org/abs/2611.22129)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-16**|**Multi-CONDOR: Learning Multistable Motion Primitives from Demonstration**|Gabriele Giuseppe Di Marzo et.al.|[2611.21059](https://arxiv.org/abs/2611.21059)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-16**|**FlowRow: Learning Navigation Behaviors in Agricultural Environments with Long-Horizon Goal-Conditioned Flow Matching Policies**|Utkarsh Bajpai et.al.|[2611.21035](https://arxiv.org/abs/2611.21035)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-16**|**Learning and Verifying Progress: Closed-Loop Agentic Planning with Progress-Enhanced Execution for Long-Horizon Vision-Language Navigation**|Kangjie Zhou et.al.|[2611.20676](https://arxiv.org/abs/2611.20676)|null|
-|**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460](https://arxiv.org/abs/2611.20460)|null|
-|**2026-11-16**|**Fuzzy Explainable Continual Hierarchical Reinforcement Learning for Robotic Navigation**|Peng Qin et.al.|[2611.20427](https://arxiv.org/abs/2611.20427)|null|
-|**2026-11-15**|**Conditional Optimal Transport and Triangular Maps for Imitation Learning**|Mohammad Al-Jarrah et.al.|[2611.19815](https://arxiv.org/abs/2611.19815)|null|
-|**2026-11-15**|**Behavioral Denoising: A New Perspective on Nonlinear Behavioral Control Inspired by Closed-Form Diffusion Policies**|Lucas Y. Jia et.al.|[2611.19712](https://arxiv.org/abs/2611.19712)|null|
+|**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691](https://arxiv.org/abs/2611.22691)|null|
+|**2026-11-17**|**Progress Predicts Policy**|Licheng Zhong et.al.|[2611.22491](https://arxiv.org/abs/2611.22491)|null|
+|**2026-11-17**|**Stability-Constrained Imitation Learning for Performance-Guaranteed Neural Feedback Frequency Control in Microgrids**|Sajid Kamal et.al.|[2611.22129](https://arxiv.org/abs/2611.22129)|null|
+|**2026-11-16**|**Multi-CONDOR: Learning Multistable Motion Primitives from Demonstration**|Gabriele Giuseppe Di Marzo et.al.|[2611.21059](https://arxiv.org/abs/2611.21059)|null|
+|**2026-11-16**|**FlowRow: Learning Navigation Behaviors in Agricultural Environments with Long-Horizon Goal-Conditioned Flow Matching Policies**|Utkarsh Bajpai et.al.|[2611.21035](https://arxiv.org/abs/2611.21035)|null|
+|**2026-11-16**|**Learning and Verifying Progress: Closed-Loop Agentic Planning with Progress-Enhanced Execution for Long-Horizon Vision-Language Navigation**|Kangjie Zhou et.al.|[2611.20676](https://arxiv.org/abs/2611.20676)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460](https://arxiv.org/abs/2611.20460)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-16**|**Fuzzy Explainable Continual Hierarchical Reinforcement Learning for Robotic Navigation**|Peng Qin et.al.|[2611.20427](https://arxiv.org/abs/2611.20427)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-15**|**Conditional Optimal Transport and Triangular Maps for Imitation Learning**|Mohammad Al-Jarrah et.al.|[2611.19815](https://arxiv.org/abs/2611.19815)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-15**|**Behavioral Denoising: A New Perspective on Nonlinear Behavioral Control Inspired by Closed-Form Diffusion Policies**|Lucas Y. Jia et.al.|[2611.19712](https://arxiv.org/abs/2611.19712)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196](https://arxiv.org/abs/2611.19196)|**[link](https://github.com/YanjieZe/awesome-humanoid-robot-learning)**|
 |**2026-11-19**|**Imitation Bootstrapped Multi-Agent Reinforcement Learning**|Tony H. Zhang et.al.|[2611.18543](https://arxiv.org/abs/2611.18543)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-13**|**On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks**|Leon Kim et.al.|[2611.17631](https://arxiv.org/abs/2611.17631)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-12**|**Inner Product Regularization for Imitation Learning**|Benjamin A. Christie et.al.|[2611.17159](https://arxiv.org/abs/2611.17159)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-12**|**Support-Constrained Offline Policy Improvement for Pediatric ECMO from Limited Clinical Data**|Fateme Golivand Darvishvand et.al.|[2611.17134](https://arxiv.org/abs/2611.17134)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-12**|**Certified Hierarchical Planning and Tracking: A Learning-Based Approach**|Weijian Li et.al.|[2611.16982](https://arxiv.org/abs/2611.16982)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-12**|**Inner Product Regularization for Imitation Learning**|Benjamin A. Christie et.al.|[2611.17159](https://arxiv.org/abs/2611.17159)|null|
+|**2026-11-12**|**Support-Constrained Offline Policy Improvement for Pediatric ECMO from Limited Clinical Data**|Fateme Golivand Darvishvand et.al.|[2611.17134](https://arxiv.org/abs/2611.17134)|null|
+|**2026-11-12**|**Certified Hierarchical Planning and Tracking: A Learning-Based Approach**|Weijian Li et.al.|[2611.16982](https://arxiv.org/abs/2611.16982)|null|
 |**2026-11-12**|**CADET: Construction of PCB Routing Instances with Executable Demonstrations**|Hyungseok Song et.al.|[2611.16913](https://arxiv.org/abs/2611.16913)|**[link](https://huggingface.co/models/LG-AI-Research/CADET)**|
-|**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374](https://arxiv.org/abs/2611.16374)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-12**|**Stack more levels: how to get general and human-like Mario playing**|Shinichi Arimura et.al.|[2611.16175](https://arxiv.org/abs/2611.16175)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-11**|**Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators**|Cheng Pan et.al.|[2611.16020](https://arxiv.org/abs/2611.16020)|null|
-|**2026-11-11**|**Before AI Agents Negotiate for Us: A Competitive Tournament of Rule-Based, Search, Optimization, Learned, and Language-Model Negotiators Under Scarcity**|Eduardo de Avila-Armenta et.al.|[2611.15838](https://arxiv.org/abs/2611.15838)|null|
-|**2026-11-17**|**GraSLA: A Lightweight Spatial-Language-Action Model with Grasp Hypotheses as Geometric Priors**|Jibao Yuan et.al.|[2611.15659](https://arxiv.org/abs/2611.15659)|null|
-|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360](https://arxiv.org/abs/2611.15360)|null|
-|**2026-11-11**|**CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning**|Yilong Song et.al.|[2611.15078](https://arxiv.org/abs/2611.15078)|null|
+|**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374](https://arxiv.org/abs/2611.16374)|null|
+|**2026-11-12**|**Stack more levels: how to get general and human-like Mario playing**|Shinichi Arimura et.al.|[2611.16175](https://arxiv.org/abs/2611.16175)|null|
+|**2026-11-11**|**Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators**|Cheng Pan et.al.|[2611.16020](https://arxiv.org/abs/2611.16020)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-11**|**Before AI Agents Negotiate for Us: A Competitive Tournament of Rule-Based, Search, Optimization, Learned, and Language-Model Negotiators Under Scarcity**|Eduardo de Avila-Armenta et.al.|[2611.15838](https://arxiv.org/abs/2611.15838)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-17**|**GraSLA: A Lightweight Spatial-Language-Action Model with Grasp Hypotheses as Geometric Priors**|Jibao Yuan et.al.|[2611.15659](https://arxiv.org/abs/2611.15659)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360](https://arxiv.org/abs/2611.15360)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-11**|**CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning**|Yilong Song et.al.|[2611.15078](https://arxiv.org/abs/2611.15078)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-10**|**Camera equalisation of an 11.5x drop in environmental illuminance: four imitation-learning policies on an SO-101 arm**|Simon Cowling et.al.|[2611.13810](https://arxiv.org/abs/2611.13810)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499](https://arxiv.org/abs/2611.13499)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-09**|**Making Strides in Symbolic Imitation Learning: Offline Demonstrations, Online Tuning**|Bryce MacInnis et.al.|[2611.13182](https://arxiv.org/abs/2611.13182)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-09**|**VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess**|Matěj Kripner et.al.|[2611.12676](https://arxiv.org/abs/2611.12676)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-09**|**RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies**|Meraj Mammadov et.al.|[2611.12251](https://arxiv.org/abs/2611.12251)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-09**|**The Relative Value of Demonstration Data: Execution Time Limits and Operator Mixtures in Behavior Cloning**|Jiaxuan Guo et.al.|[2611.11947](https://arxiv.org/abs/2611.11947)|**[link](https://github.com/JethroJames/awesome-robots-icl)**|
-|**2026-11-09**|**PAIR: Proprioception-Aligned Image-Ray Representations for Viewpoint-Robust Manipulation**|Sung-Wook Lee et.al.|[2611.11798](https://arxiv.org/abs/2611.11798)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-09**|**VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess**|Matěj Kripner et.al.|[2611.12676](https://arxiv.org/abs/2611.12676)|null|
+|**2026-11-09**|**RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies**|Meraj Mammadov et.al.|[2611.12251](https://arxiv.org/abs/2611.12251)|null|
+|**2026-11-09**|**The Relative Value of Demonstration Data: Execution Time Limits and Operator Mixtures in Behavior Cloning**|Jiaxuan Guo et.al.|[2611.11947](https://arxiv.org/abs/2611.11947)|null|
+|**2026-11-09**|**PAIR: Proprioception-Aligned Image-Ray Representations for Viewpoint-Robust Manipulation**|Sung-Wook Lee et.al.|[2611.11798](https://arxiv.org/abs/2611.11798)|null|
 |**2026-11-19**|**From Game Generation to Game Playing: Fully Automated Ability Training for Vision-Language-Action Models**|Changran Liu et.al.|[2611.11136](https://arxiv.org/abs/2611.11136)|**[link](https://huggingface.co/models/GameIntelligenceLab/Script2Play-4B)**|
-|**2026-11-08**|**HARP-Bench: Benchmarking Robot Manipulation Around Active Humans**|Qinhong Zhou et.al.|[2611.11123](https://arxiv.org/abs/2611.11123)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-11-07**|**Explicitly capturing demonstrator multi-modality for distillation into diffusion policies**|Shao Yuan Chew Chia et.al.|[2611.10949](https://arxiv.org/abs/2611.10949)|null|
-|**2026-11-07**|**Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas**|Xiaofan Xia et.al.|[2611.10870](https://arxiv.org/abs/2611.10870)|null|
-|**2026-11-07**|**WARP-JEPA: World-Model-in-the-Loop Amortized Rollout Planning for Frozen Hierarchical Joint-Embedding Predictive Architectures**|Junjie Li et.al.|[2611.10806](https://arxiv.org/abs/2611.10806)|null|
-|**2026-11-07**|**Task-Critical Part Alignment Improves Imitation of Object Interactions**|Denis Hadjivelichkov et.al.|[2611.10664](https://arxiv.org/abs/2611.10664)|null|
-|**2026-11-07**|**Model-Based Imitation Learning For Monocular Vision-Based Navigation**|Basant Sharma et.al.|[2611.10635](https://arxiv.org/abs/2611.10635)|null|
+|**2026-11-08**|**HARP-Bench: Benchmarking Robot Manipulation Around Active Humans**|Qinhong Zhou et.al.|[2611.11123](https://arxiv.org/abs/2611.11123)|**[link](https://github.com/UMass-Embodied-AGI/harp)**|
+|**2026-11-07**|**Explicitly capturing demonstrator multi-modality for distillation into diffusion policies**|Shao Yuan Chew Chia et.al.|[2611.10949](https://arxiv.org/abs/2611.10949)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-07**|**Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas**|Xiaofan Xia et.al.|[2611.10870](https://arxiv.org/abs/2611.10870)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-07**|**WARP-JEPA: World-Model-in-the-Loop Amortized Rollout Planning for Frozen Hierarchical Joint-Embedding Predictive Architectures**|Junjie Li et.al.|[2611.10806](https://arxiv.org/abs/2611.10806)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-07**|**Task-Critical Part Alignment Improves Imitation of Object Interactions**|Denis Hadjivelichkov et.al.|[2611.10664](https://arxiv.org/abs/2611.10664)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-11-07**|**Model-Based Imitation Learning For Monocular Vision-Based Navigation**|Basant Sharma et.al.|[2611.10635](https://arxiv.org/abs/2611.10635)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-07**|**Grip, Trace, Write: Force-Aware Imitation and Reinforcement Learning for High-DoF Robotic Handwriting**|Rongqian Chen et.al.|[2611.10451](https://arxiv.org/abs/2611.10451)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-06**|**DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning**|Seokin Seo et.al.|[2611.09433](https://arxiv.org/abs/2611.09433)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-11-06**|**Mitigating Covariate Shift in Behavioral Cloning via Robust Stationary Distribution Correction**|Seokin Seo et.al.|[2611.09371](https://arxiv.org/abs/2611.09371)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -12376,7 +12379,7 @@
 |**2018-05-28**|**Coordinated Multi-Agent Imitation Learning**|Hoang M. Le et.al.|[1703.03121](https://arxiv.org/abs/1703.03121)|**[link](https://github.com/zziz/pwc)**|
 |**2017-01-25**|**Imitating Driver Behavior with Generative Adversarial Networks**|Alex Kuefler et.al.|[1701.06699](https://arxiv.org/abs/1701.06699)|**[link](https://github.com/nightrome/really-awesome-gan)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Robotic Navigation
 
@@ -13353,5 +13356,5 @@
 |**2018-07-27**|**Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**|Xin Wang et.al.|[1803.07729](https://arxiv.org/abs/1803.07729)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 |**2018-04-09**|**Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**|Peter Anderson et.al.|[1711.07280](https://arxiv.org/abs/1711.07280)|**[link](https://github.com/pliang279/awesome-multimodal-ml)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
